@@ -24,7 +24,7 @@ from sqlalchemy import select
 from app.db.session import SessionLocal
 from app.db.tables import Case, Draft, Edit
 
-DATA_DIR = Path("/app/data")
+DATA_DIR = Path("/app/data/rodriguez")
 
 
 async def _find_or_create_seed_draft(case: Case, draft_type: str, session) -> Draft:
