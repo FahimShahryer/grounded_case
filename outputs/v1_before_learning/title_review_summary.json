@@ -1,0 +1,590 @@
+{
+  "header": {
+    "servicer": "Wells Fargo"
+  },
+  "sections": [
+    {
+      "id": "liens",
+      "body": "Below is a summary of liens and other encumbrances identified as affecting the property at 15201 SW 88th Ave, Palmetto Bay, FL 33157. All information is directly supported by the cited title search evidence. Satisfied mortgages are included for completeness but are noted as released.",
+      "blocks": [
+        {
+          "notes": "Property taxes and assessments for the year 2025 and subsequent years are a lien on the property, though they are not yet due and payable.",
+          "title": "2025 Property Tax Lien",
+          "badges": [
+            "ASSIGNED"
+          ],
+          "fields": [
+            {
+              "key": "Type",
+              "value": "Tax Lien"
+            },
+            {
+              "key": "Amount",
+              "value": "$8,247.00"
+            },
+            {
+              "key": "Status",
+              "value": "Active, not yet due"
+            },
+            {
+              "key": "Tax Parcel No.",
+              "value": "33-5022-014-0290"
+            }
+          ],
+          "citations": [
+            {
+              "claim": "2025 property tax lien in the amount of $8,247.00 is active but not yet due or payable.",
+              "spans": [
+                {
+                  "file": "title_search_page1.pdf",
+                  "line_end": 11,
+                  "raw_text": "[L8] 1. Property taxes and assessments for the year 2025 and subsequent years,\n[L9] which are a lien but not yet due and payable.\n[L10] Amount: $8,247.00\n[L11] Tax Parcel No.: 33-5022-014-0290",
+                  "confidence": 1.0,
+                  "line_start": 8
+                }
+              ]
+            }
+          ],
+          "action_items": []
+        },
+        {
+          "notes": "Original mortgage subject to later assignment.",
+          "title": "Mortgage to Wells Fargo Bank, N.A.",
+          "badges": [
+            "ASSIGNED"
+          ],
+          "fields": [
+            {
+              "key": "Type",
+              "value": "Mortgage"
+            },
+            {
+              "key": "Amount",
+              "value": "$445,000.00"
+            },
+            {
+              "key": "Debtor",
+              "value": "Carlos A. Rodriguez"
+            },
+            {
+              "key": "Creditor",
+              "value": "Wells Fargo Bank, N.A."
+            },
+            {
+              "key": "Date Dated",
+              "value": "February 8, 2021"
+            },
+            {
+              "key": "Date Recorded",
+              "value": "February 15, 2021"
+            },
+            {
+              "key": "Instrument No.",
+              "value": "2021-0123456"
+            },
+            {
+              "key": "Status",
+              "value": "Assigned"
+            }
+          ],
+          "citations": [
+            {
+              "claim": "Mortgage from Carlos A. Rodriguez to Wells Fargo Bank, N.A. for $445,000.00 dated February 8, 2021, recorded February 15, 2021 as Instrument No. 2021-0123456.",
+              "spans": [
+                {
+                  "file": "title_search_page1.pdf",
+                  "line_end": 15,
+                  "raw_text": "[L12] 2. Mortgage from CARLOS A. RODRIGUEZ to WELLS FARGO BANK, N.A. in the\n[L13] original amount of $445,000.00 dated February 8, 2021 and recorded\n[L14] February 15, 2021 as Instrument No. 2021-0123456 in the Official\n[L15] Records of Miami-Dade County, Florida.",
+                  "confidence": 1.0,
+                  "line_start": 12
+                }
+              ]
+            }
+          ],
+          "action_items": []
+        },
+        {
+          "notes": "Mortgage originally in favor of Wells Fargo Bank, N.A. assigned to Nationstar Mortgage LLC d/b/a Mr. Cooper.",
+          "title": "Assignment of Mortgage to Nationstar Mortgage LLC d/b/a Mr. Cooper",
+          "badges": [
+            "ASSIGNED"
+          ],
+          "fields": [
+            {
+              "key": "Type",
+              "value": "Assignment of Mortgage"
+            },
+            {
+              "key": "From",
+              "value": "Wells Fargo Bank, N.A."
+            },
+            {
+              "key": "To",
+              "value": "Nationstar Mortgage LLC d/b/a Mr. Cooper"
+            },
+            {
+              "key": "Debtor",
+              "value": "Carlos A. Rodriguez"
+            },
+            {
+              "key": "Date Recorded",
+              "value": "September 14, 2025"
+            },
+            {
+              "key": "Instrument No.",
+              "value": "2025-0891234"
+            },
+            {
+              "key": "Status",
+              "value": "Active"
+            }
+          ],
+          "citations": [
+            {
+              "claim": "Assignment of Mortgage from Wells Fargo Bank, N.A. to Nationstar Mortgage LLC d/b/a Mr. Cooper recorded September 14, 2025, as Instrument No. 2025-0891234.",
+              "spans": [
+                {
+                  "file": "title_search_page1.pdf",
+                  "line_end": 19,
+                  "raw_text": "[L16] 3. Assignment of Mortgage from WE11S FARGO BANK, N.A. to NATIONSTAR\n[L17] MORTGAGE LLC D/B/A MR. COOPER recorded September 14, 2025 as\n[L18] Instrument No. 2025-0891234 in the Official Records of Miami-Dade\n[L19] County, Florida.",
+                  "confidence": 1.0,
+                  "line_start": 16
+                }
+              ]
+            }
+          ],
+          "action_items": []
+        },
+        {
+          "notes": "Notice of Lis Pendens filed for unpaid assessments by Palmetto Bay Homeowners Association, Inc.",
+          "title": "HOA Lis Pendens for Unpaid Assessments",
+          "badges": [
+            "DELINQUENT",
+            "URGENT"
+          ],
+          "fields": [
+            {
+              "key": "Type",
+              "value": "Notice of Lis Pendens (HOA)"
+            },
+            {
+              "key": "Creditor",
+              "value": "Palmetto Bay Homeowners Association, Inc."
+            },
+            {
+              "key": "Amount",
+              "value": "$3,420.00"
+            },
+            {
+              "key": "Date Filed",
+              "value": "January 22, 2026"
+            },
+            {
+              "key": "Instrument No.",
+              "value": "2026-0034567"
+            },
+            {
+              "key": "Status",
+              "value": "Active"
+            }
+          ],
+          "citations": [
+            {
+              "claim": "Notice of Lis Pendens filed by Palmetto Bay Homeowners Association, Inc. on January 22, 2026, in the amount of $3,420.00 for unpaid assessments, recorded as Instrument No. 2026-0034567.",
+              "spans": [
+                {
+                  "file": "title_search_page1.pdf",
+                  "line_end": 22,
+                  "raw_text": "[L20] 4. Notice of Lis Pendens filed by PALMETTO BAY HOMEOWNERS ASSOCIATION,\n[L21] INC. on January 22, 2026 in the amount of $3,420.00 for unpaid\n[L22] assessments, recorded as Instrument No. 2026-0034567.",
+                  "confidence": 1.0,
+                  "line_start": 20
+                }
+              ]
+            },
+            {
+              "claim": "HOA lien of $3,420.00 confirmed.",
+              "spans": [
+                {
+                  "file": "title_search_page2.pdf",
+                  "line_end": 24,
+                  "raw_text": "[L23] - HOA lien: Palmetto Bay Homeowners Association \t6 $3,420.00\n[L24] (see Schedule B, Item 4)",
+                  "confidence": 1.0,
+                  "line_start": 23
+                }
+              ]
+            }
+          ],
+          "action_items": [
+            "Action required: Address outstanding HOA assessments to resolve lis pendens."
+          ]
+        },
+        {
+          "notes": "Easement in favor of Florida Power & Light Company for electrical transmission lines.",
+          "title": "Easement for Electrical Transmission Lines",
+          "badges": [
+            "ASSIGNED"
+          ],
+          "fields": [
+            {
+              "key": "Type",
+              "value": "Easement"
+            },
+            {
+              "key": "Beneficiary",
+              "value": "Florida Power & Light Company"
+            },
+            {
+              "key": "Book/Page",
+              "value": "O.R. Book 18924, Page 445"
+            },
+            {
+              "key": "Status",
+              "value": "Active"
+            }
+          ],
+          "citations": [
+            {
+              "claim": "Easement in favor of Florida Power & Light Company for electrical transmission lines, recorded in O.R. Book 18924, Page 445.",
+              "spans": [
+                {
+                  "file": "title_search_page1.pdf",
+                  "line_end": 24,
+                  "raw_text": "[L23] 5. Easement in favor of Florida Power & Light Company for electrical\n[L24] transmission lines, recorded in 0.R. Book 18924, Page 445.",
+                  "confidence": 1.0,
+                  "line_start": 23
+                }
+              ]
+            }
+          ],
+          "action_items": []
+        },
+        {
+          "notes": "Restrictive covenants affecting subject property, as amended.",
+          "title": "Restrictive Covenants",
+          "badges": [
+            "ASSIGNED"
+          ],
+          "fields": [
+            {
+              "key": "Type",
+              "value": "Restrictive Covenant"
+            },
+            {
+              "key": "Book/Page",
+              "value": "O.R. Book 12031, Page 892 (amended by O.R. Book 15677, Page 1021)"
+            },
+            {
+              "key": "Status",
+              "value": "Active"
+            }
+          ],
+          "citations": [
+            {
+              "claim": "Restrictive covenants recorded in O.R. Book 12031, Page 892, as amended by O.R. Book 15677, Page 1021.",
+              "spans": [
+                {
+                  "file": "title_search_page1.pdf",
+                  "line_end": 26,
+                  "raw_text": "[L25] 6. Restrictive covenants recorded in 0.R. Book 12031, Page 892,\n[L26] as amended by instrument recorded in 0.R. Book 15677, Page 1021.",
+                  "confidence": 1.0,
+                  "line_start": 25
+                }
+              ]
+            }
+          ],
+          "action_items": []
+        },
+        {
+          "notes": "This mortgage was fully satisfied before transfer to Carlos A. Rodriguez (prior owner: Maria Santos).",
+          "title": "Satisfied Mortgage (Prior Owner)",
+          "badges": [],
+          "fields": [
+            {
+              "key": "Type",
+              "value": "Mortgage (Satisfied)"
+            },
+            {
+              "key": "Instrument No.",
+              "value": "2015-0567890"
+            },
+            {
+              "key": "Date Recorded",
+              "value": "August 15, 2015"
+            },
+            {
+              "key": "Status",
+              "value": "Satisfied prior to conveyance"
+            }
+          ],
+          "citations": [
+            {
+              "claim": "Satisfaction of Mortgage recorded August 15, 2015, Instrument 2015-0567890 (mortgage satisfied prior to conveyance to Rodriguez).",
+              "spans": [
+                {
+                  "file": "title_search_page2.pdf",
+                  "line_end": 28,
+                  "raw_text": "[L27] - Satisfaction of Mortgage recorded 08/15/2015, Instrument 2015-0567890\n[L28] (mortgage fully satisfied prior to conveyance to Rodriguez)",
+                  "confidence": 1.0,
+                  "line_start": 27
+                }
+              ]
+            }
+          ],
+          "action_items": []
+        }
+      ],
+      "heading": "Liens and Encumbrances on the Property",
+      "abstained": false,
+      "citations": []
+    },
+    {
+      "id": "tax_status",
+      "body": "A summary of the property tax payment status for 15201 SW 88th Ave, including amounts paid and outstanding for the 2024 and 2025 tax years, as well as associated parcel details.",
+      "blocks": [
+        {
+          "notes": "2025 property taxes are a lien but are not yet due and payable as of the report date.",
+          "title": "2025 Property Tax",
+          "badges": [
+            "ASSIGNED"
+          ],
+          "fields": [
+            {
+              "key": "Tax Year",
+              "value": "2025"
+            },
+            {
+              "key": "Status",
+              "value": "Unpaid"
+            },
+            {
+              "key": "Amount",
+              "value": "$8,247.00"
+            },
+            {
+              "key": "Due Date",
+              "value": "November 1, 2025"
+            },
+            {
+              "key": "Parcel Number",
+              "value": "33-5022-014-0290"
+            }
+          ],
+          "citations": [
+            {
+              "claim": "2025 property taxes are unpaid, amounting to $8,247.00, due November 1, 2025. Parcel number: 33-5022-014-0290. Taxes are a lien but not yet due and payable.",
+              "spans": [
+                {
+                  "file": "title_search_page1.pdf",
+                  "line_end": 11,
+                  "raw_text": "[L8] 1. Property taxes and assessments for the year 2025 and subsequent years,\n[L9] which are a lien but not yet due and payable.\n[L10] Amount: $8,247.00\n[L11] Tax Parcel No.: 33-5022-014-0290",
+                  "confidence": 0.99,
+                  "line_start": 8
+                },
+                {
+                  "file": "title_search_page2.pdf",
+                  "line_end": 11,
+                  "raw_text": "[L11] Tax Year 2025: UNPAID \t6 $8,247.00 (due November 1, 2025 \t6 DELINQUENT)",
+                  "confidence": 0.98,
+                  "line_start": 11
+                }
+              ]
+            }
+          ],
+          "action_items": []
+        },
+        {
+          "notes": "Payment for 2024 taxes is supported by receipt on file.",
+          "title": "2024 Property Tax",
+          "badges": [],
+          "fields": [
+            {
+              "key": "Tax Year",
+              "value": "2024"
+            },
+            {
+              "key": "Status",
+              "value": "Paid"
+            },
+            {
+              "key": "Amount",
+              "value": "$7,891.00"
+            },
+            {
+              "key": "Parcel Number",
+              "value": "33-5022-014-0290"
+            }
+          ],
+          "citations": [
+            {
+              "claim": "2024 property taxes are paid in the amount of $7,891.00. Receipt on file. Parcel number: 33-5022-014-0290.",
+              "spans": [
+                {
+                  "file": "title_search_page2.pdf",
+                  "line_end": 10,
+                  "raw_text": "[L10] Tax Year 2024: PAID \t6 $7,891.00 (receipt on file)",
+                  "confidence": 0.99,
+                  "line_start": 10
+                }
+              ]
+            }
+          ],
+          "action_items": []
+        }
+      ],
+      "heading": "Property Tax Status",
+      "abstained": false,
+      "citations": [
+        {
+          "claim": "2024 property taxes are paid and 2025 property taxes are unpaid, with corresponding amounts and parcel information.",
+          "spans": [
+            {
+              "file": "title_search_page2.pdf",
+              "line_end": 11,
+              "raw_text": "[L10] Tax Year 2024: PAID \t6 $7,891.00 (receipt on file)\n[L11] Tax Year 2025: UNPAID \t6 $8,247.00 (due November 1, 2025 \t6 DELINQUENT)",
+              "confidence": 0.99,
+              "line_start": 10
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ownership",
+      "body": "The following summarizes the recorded chain of ownership and the current vesting status for the property located at 15201 SW 88th Ave, Palmetto Bay, FL 33157.",
+      "blocks": [
+        {
+          "notes": null,
+          "title": "Initial Ownership",
+          "badges": [],
+          "fields": [
+            {
+              "key": "Owner",
+              "value": "Maria Santos"
+            },
+            {
+              "key": "Date Recorded",
+              "value": "January 1, 2003"
+            }
+          ],
+          "citations": [
+            {
+              "claim": "Maria Santos acquired fee simple ownership recorded January 1, 2003.",
+              "spans": [
+                {
+                  "file": "title_search_page1.pdf",
+                  "line_end": 28,
+                  "raw_text": "[L28] - Maria Santos (fee simple, recorded 2003)",
+                  "confidence": 1.0,
+                  "line_start": 28
+                },
+                {
+                  "file": "title_search_page1.pdf",
+                  "line_end": 30,
+                  "raw_text": "NOTE: The chain of title shows the following sequence of ownership:\n- Maria Santos (fee simple, recorded 2003)",
+                  "confidence": 0.98,
+                  "line_start": 25
+                }
+              ]
+            }
+          ],
+          "action_items": []
+        },
+        {
+          "notes": null,
+          "title": "Transfer to Carlos A. Rodriguez",
+          "badges": [],
+          "fields": [
+            {
+              "key": "Grantor",
+              "value": "Maria Santos"
+            },
+            {
+              "key": "Grantee",
+              "value": "Carlos A. Rodriguez"
+            },
+            {
+              "key": "Instrument",
+              "value": "Warranty Deed"
+            },
+            {
+              "key": "Date Recorded",
+              "value": "January 1, 2015"
+            }
+          ],
+          "citations": [
+            {
+              "claim": "Maria Santos conveyed the property to Carlos A. Rodriguez by warranty deed recorded January 1, 2015.",
+              "spans": [
+                {
+                  "file": "title_search_page1.pdf",
+                  "line_end": 29,
+                  "raw_text": "[L29] - Santos to Rodriguez, Carlos A. (warranty deed, recorded 2015)",
+                  "confidence": 1.0,
+                  "line_start": 29
+                },
+                {
+                  "file": "title_search_page1.pdf",
+                  "line_end": 30,
+                  "raw_text": "- Santos to Rodriguez, Carlos A. (warranty deed, recorded 2015)",
+                  "confidence": 0.98,
+                  "line_start": 25
+                }
+              ]
+            }
+          ],
+          "action_items": []
+        },
+        {
+          "notes": null,
+          "title": "Current Vesting",
+          "badges": [],
+          "fields": [
+            {
+              "key": "Vested Owner",
+              "value": "Carlos A. Rodriguez, a single man"
+            }
+          ],
+          "citations": [
+            {
+              "claim": "The current vesting is in the name of Carlos A. Rodriguez, a single man.",
+              "spans": [
+                {
+                  "file": "title_search_page1.pdf",
+                  "line_end": 30,
+                  "raw_text": "Current vesting: CARLOS A. RODRIGUEZ, a single man",
+                  "confidence": 0.98,
+                  "line_start": 25
+                }
+              ]
+            }
+          ],
+          "action_items": []
+        }
+      ],
+      "heading": "Chain of Ownership and Current Vesting",
+      "abstained": false,
+      "citations": [
+        {
+          "claim": "Chain of title shows ownership from Maria Santos (recorded 2003) to Carlos A. Rodriguez (warranty deed, recorded 2015); current vesting: Carlos A. Rodriguez, a single man.",
+          "spans": [
+            {
+              "file": "title_search_page1.pdf",
+              "line_end": 30,
+              "raw_text": "NOTE: The chain of title shows the following sequence of ownership:\n- Maria Santos (fee simple, recorded 2003)\n- Santos to Rodriguez, Carlos A. (warranty deed, recorded 2015)\n- Current vesting: CARLOS A. RODRIGUEZ, a single man",
+              "confidence": 0.98,
+              "line_start": 25
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "judgments",
+      "body": "No outstanding judgments or federal/state tax liens have been identified in the provided source materials for Carlos A. Rodriguez at 15201 SW 88th Ave, Palmetto Bay, FL 33157.",
+      "blocks": [],
+      "heading": "Outstanding Judgments and Federal/State Tax Liens",
+      "abstained": true,
+      "citations": []
+    }
+  ]
+}

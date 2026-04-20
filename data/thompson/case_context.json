@@ -1,0 +1,19 @@
+{
+  "case_number": "2026-FC-03217",
+  "borrower": "Thompson, Linda M.",
+  "property_address": "4418 Cedar Ridge Dr, Riverside, CA 92504",
+  "county": "Riverside",
+  "state": "CA",
+  "servicer": "Chase Home Finance (transferring to Rocket Mortgage effective May 15, 2026)",
+  "loan_number": "2022-CH-7781203",
+  "loan_amount": 612500.00,
+  "loan_date": "June 3, 2022",
+  "default_date": "December 1, 2025",
+  "current_status": "pre_filing",
+  "documents_on_file": [
+    "title_search.txt — Schedule B exceptions with federal tax lien (OCR)",
+    "servicer_email.txt — Chase transfer notice with multiple action items",
+    "court_order.txt — Superior Court case management order"
+  ],
+  "notes": "Novel complications vs Case 1: federal (IRS) tax lien (new lien type), borrower still represents self, construction lien from remodel contractor, Chase → Rocket Mortgage servicer transfer, California jurisdiction (different from Florida)."
+}

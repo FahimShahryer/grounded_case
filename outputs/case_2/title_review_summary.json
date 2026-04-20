@@ -1,0 +1,554 @@
+{
+  "header": {
+    "servicer": "Chase Home Finance (transferring to Rocket Mortgage effective May 15, 2026)",
+    "case_status": "pre_filing"
+  },
+  "sections": [
+    {
+      "id": "liens",
+      "heading": "Liens and Encumbrances",
+      "body": "Summary of all liens and encumbrances identified from title search and supporting documentation. Each block provides exact recorded information and statuses as required.",
+      "blocks": [
+        {
+          "title": "First Mortgage \u2014 JPMorgan Chase Bank, N.A.",
+          "fields": [
+            {
+              "key": "Original Amount",
+              "value": "$612,500.00"
+            },
+            {
+              "key": "Date Recorded",
+              "value": "2022-06-10"
+            },
+            {
+              "key": "Instrument No.",
+              "value": "2022-00892345"
+            },
+            {
+              "key": "Status",
+              "value": "Active"
+            }
+          ],
+          "badges": [
+            "ASSIGNED"
+          ],
+          "notes": null,
+          "action_items": [],
+          "citations": [
+            {
+              "claim": "First mortgage in the amount of $612,500.00 dated June 3, 2022 and recorded June 10, 2022 as Instrument No. 2022-00892345 with JPMorgan Chase Bank, N.A.",
+              "spans": [
+                {
+                  "file": "title_search.txt",
+                  "line_start": 16,
+                  "line_end": 19,
+                  "raw_text": "2. Mortgage from LINDA M. TH0MPSON to JPM0RGAN CHASE BANK, N.A.\n   in the origina1 amount of $612,500.00 dated June 3, 2O22 and\n   recorded June 1O, 2O22 as Instrument No. 2022-00892345 in the\n   Officia1 Records of Riverside County, Ca1ifornia.",
+                  "confidence": 1.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Federal Tax Lien \u2014 Internal Revenue Service",
+          "fields": [
+            {
+              "key": "Amount",
+              "value": "$47,829.03"
+            },
+            {
+              "key": "Tax Years",
+              "value": "2022-2023"
+            },
+            {
+              "key": "Date Recorded",
+              "value": "2025-11-04"
+            },
+            {
+              "key": "Instrument No.",
+              "value": "2025-0114872"
+            },
+            {
+              "key": "Status",
+              "value": "Active"
+            }
+          ],
+          "badges": [
+            "ACTION REQUIRED"
+          ],
+          "notes": "IRS may need to be named in foreclosure complaint due to federal statutory requirements.",
+          "action_items": [
+            "Assess federal redemption period and notice obligations under 28 U.S.C. \u00a7 2410."
+          ],
+          "citations": [
+            {
+              "claim": "Notice of Federal Tax Lien filed by the IRS against Linda M. Thompson in the amount of $47,829.03 for tax years 2022-2023, recorded November 4, 2025 as Instrument No. 2025-0114872.",
+              "spans": [
+                {
+                  "file": "title_search.txt",
+                  "line_start": 21,
+                  "line_end": 24,
+                  "raw_text": "3. Notice of Federa1 Tax Lien fi1ed by the INTERNAL REVENUE\n   SERVICE against Linda M. Th0mpson in the amount of $47,829.03\n   for tax years 2022-2023, recorded November 4, 2O25 as\n   Instrument No. 2025-0114872.",
+                  "confidence": 1.0
+                }
+              ]
+            },
+            {
+              "claim": "Servicer email confirms IRS lien and flags need for review of statutory requirements.",
+              "spans": [
+                {
+                  "file": "servicer_email.txt",
+                  "line_start": 19,
+                  "line_end": 23,
+                  "raw_text": "- We received a lien-title update showing a federal tax lien filed against the\n  borrower by the IRS for $47,829.03. Please review whether the IRS needs to be\n  named as a party defendant in the foreclosure complaint \u0015 our understanding\n  is the federal statutory redemption period creates specific notice requirements\n  under 28 U.S.C. a7 2410. Please advise.",
+                  "confidence": 1.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Mechanic's Lien \u2014 Hernandez & Sons Construction",
+          "fields": [
+            {
+              "key": "Amount",
+              "value": "$18,650.00"
+            },
+            {
+              "key": "Date Recorded",
+              "value": "2026-01-07"
+            },
+            {
+              "key": "Instrument No.",
+              "value": "2026-0004421"
+            },
+            {
+              "key": "Status",
+              "value": "Active"
+            }
+          ],
+          "badges": [
+            "ACTION REQUIRED"
+          ],
+          "notes": "Mechanic's lien for unpaid remodeling work (March\u2013September 2025) must be resolved prior to sale.",
+          "action_items": [
+            "Address mechanic's lien prior to closing any transaction."
+          ],
+          "citations": [
+            {
+              "claim": "Mechanic's Lien by Hernandez & Sons Construction for $18,650.00, recorded January 7, 2026 as Instrument No. 2026-0004421. Work performed March\u2013September 2025.",
+              "spans": [
+                {
+                  "file": "title_search.txt",
+                  "line_start": 26,
+                  "line_end": 29,
+                  "raw_text": "4. Mechanic's Lien fi1ed by HERNANDEZ & SONS CONSTRUCT1ON in the\n   amount of $18,650.00 for unpaid remode1ing work, recorded\n   January 7, 2O26 as Instrument No. 2026-0004421. Work performed\n   between March and September 2O25 per attached c1aim.",
+                  "confidence": 1.0
+                }
+              ]
+            },
+            {
+              "claim": "Servicer flagged mechanic's lien as needing resolution before sale.",
+              "spans": [
+                {
+                  "file": "servicer_email.txt",
+                  "line_start": 25,
+                  "line_end": 27,
+                  "raw_text": "- Also flagged on title: a mechanic's lien for $18,650.00 from Hernandez & Sons\n  Construction for a bathroom/kitchen remodel. Needs to be addressed before\n  any sale.",
+                  "confidence": 1.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Utility Easement \u2014 Southern California Edison",
+          "fields": [
+            {
+              "key": "Purpose",
+              "value": "Overhead electrical lines and underground utilities"
+            },
+            {
+              "key": "Book",
+              "value": "7234"
+            },
+            {
+              "key": "Page",
+              "value": "1881"
+            },
+            {
+              "key": "Status",
+              "value": "Active"
+            }
+          ],
+          "badges": [],
+          "notes": null,
+          "action_items": [],
+          "citations": [
+            {
+              "claim": "Easement in favor of Southern California Edison for overhead electrical lines and underground utilities, recorded in Book 7234, Page 1881.",
+              "spans": [
+                {
+                  "file": "title_search.txt",
+                  "line_start": 31,
+                  "line_end": 33,
+                  "raw_text": "5. Easement in favor of SOUTHERN CAL1FORNIA EDISON for overhead\n   e1ectrica1 1ines and underground uti1ities, recorded in Book\n   7234, Page 1881.",
+                  "confidence": 1.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Restrictive Covenants \u2014 Cedar Ridge Estates CC&Rs",
+          "fields": [
+            {
+              "key": "Recorded In",
+              "value": "Book 5521, Page 220"
+            },
+            {
+              "key": "Amended By",
+              "value": "Book 6892, Page 744"
+            },
+            {
+              "key": "Status",
+              "value": "Active"
+            }
+          ],
+          "badges": [],
+          "notes": "Declaration of CC&Rs for Cedar Ridge Estates, as amended.",
+          "action_items": [],
+          "citations": [
+            {
+              "claim": "Declaration of Covenants, Conditions and Restrictions for Cedar Ridge Estates, recorded in Book 5521, Page 220, as amended in Book 6892, Page 744.",
+              "spans": [
+                {
+                  "file": "title_search.txt",
+                  "line_start": 35,
+                  "line_end": 37,
+                  "raw_text": "6. Dec1aration of Covenants, Conditions and Restrictions for\n   Cedar Ridge Estates, recorded in Book 5521, Page 22O, as\n   amended by instrument recorded in Book 6892, Page 744.",
+                  "confidence": 1.0
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "citations": [],
+      "abstained": false
+    },
+    {
+      "id": "tax_status",
+      "heading": "Property Tax Status",
+      "body": null,
+      "blocks": [
+        {
+          "title": "2025 Tax Year",
+          "fields": [
+            {
+              "key": "Year",
+              "value": "2025"
+            },
+            {
+              "key": "Amount",
+              "value": "$11,342.00 (second installment)"
+            },
+            {
+              "key": "Paid/Unpaid",
+              "value": "Unpaid"
+            },
+            {
+              "key": "Due Date",
+              "value": "2026-04-10"
+            },
+            {
+              "key": "Tax Parcel",
+              "value": "234-056-007-3"
+            }
+          ],
+          "badges": [
+            "DELINQUENT"
+          ],
+          "notes": "Second installment for 2025 taxes remains unpaid and is due April 10, 2026.",
+          "action_items": [],
+          "citations": [
+            {
+              "claim": "2025 property tax second installment of $11,342.00 remains unpaid; due April 10, 2026. Parcel No. 234-056-007-3.",
+              "spans": [
+                {
+                  "file": "title_search.txt",
+                  "line_start": 11,
+                  "line_end": 14,
+                  "raw_text": "1. Property taxes and assessments for the year 2025, second\n   insta11ment due Apri1 10, 2026.\n   Amount: $11,342.00 (second insta11ment)\n   APN: 234-056-007-3",
+                  "confidence": 1.0
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "citations": [
+        {
+          "claim": "2025 property tax second installment of $11,342.00 remains unpaid; due April 10, 2026. Parcel No. 234-056-007-3.",
+          "spans": [
+            {
+              "file": "title_search.txt",
+              "line_start": 11,
+              "line_end": 14,
+              "raw_text": "1. Property taxes and assessments for the year 2025, second\n   insta11ment due Apri1 10, 2026.\n   Amount: $11,342.00 (second insta11ment)\n   APN: 234-056-007-3",
+              "confidence": 1.0
+            }
+          ]
+        }
+      ],
+      "abstained": false
+    },
+    {
+      "id": "ownership",
+      "heading": "Ownership and Chain of Title",
+      "body": "This section reviews the complete ownership chain for 4418 Cedar Ridge Dr, Riverside, CA 92504, showing each transfer chronologically and concluding with the current vesting.",
+      "blocks": [
+        {
+          "title": "Conveyance: Paul and Maria Thompson (Joint Tenancy)",
+          "fields": [
+            {
+              "key": "Grantor",
+              "value": "Not specified in record"
+            },
+            {
+              "key": "Grantee",
+              "value": "Paul and Maria Thompson"
+            },
+            {
+              "key": "Instrument Type",
+              "value": "Joint Tenancy"
+            },
+            {
+              "key": "Date Recorded",
+              "value": "2008"
+            }
+          ],
+          "badges": [],
+          "notes": null,
+          "action_items": [],
+          "citations": [
+            {
+              "claim": "Paul and Maria Thompson acquired title in joint tenancy, recorded 2008.",
+              "spans": [
+                {
+                  "file": "title_search.txt",
+                  "line_start": 40,
+                  "line_end": 40,
+                  "raw_text": "  - Pau1 and Mar1a Thompson (joint tenancy, recorded 2O08)",
+                  "confidence": 0.99
+                },
+                {
+                  "file": "title_search.txt",
+                  "line_start": 39,
+                  "line_end": 43,
+                  "raw_text": "NOTE: The chain of tit1e shows the fo11owing sequence of ownership:\n  - Pau1 and Mar1a Thompson (joint tenancy, recorded 2O08)\n  - Pau1 Thompson to Linda M. Thompson (interspousa1 transfer\n    deed fo11owing dissolution, recorded 2O19)\n  - Current vesting: LINDA M. TH0MPSON, an unmarried woman",
+                  "confidence": 0.95
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Conveyance: Interspousal Transfer Deed (Paul Thompson to Linda M. Thompson)",
+          "fields": [
+            {
+              "key": "Grantor",
+              "value": "Paul Thompson"
+            },
+            {
+              "key": "Grantee",
+              "value": "Linda M. Thompson"
+            },
+            {
+              "key": "Instrument Type",
+              "value": "Interspousal Transfer Deed"
+            },
+            {
+              "key": "Date Recorded",
+              "value": "2019"
+            }
+          ],
+          "badges": [],
+          "notes": "Transfer follows dissolution of marriage.",
+          "action_items": [],
+          "citations": [
+            {
+              "claim": "Paul Thompson transferred the property to Linda M. Thompson by interspousal transfer deed, recorded 2019.",
+              "spans": [
+                {
+                  "file": "title_search.txt",
+                  "line_start": 41,
+                  "line_end": 42,
+                  "raw_text": "  - Pau1 Thompson to Linda M. Thompson (interspousa1 transfer\n    deed fo11owing dissolution, recorded 2O19)",
+                  "confidence": 0.99
+                },
+                {
+                  "file": "title_search.txt",
+                  "line_start": 39,
+                  "line_end": 43,
+                  "raw_text": "NOTE: The chain of tit1e shows the fo11owing sequence of ownership:\n  - Pau1 and Mar1a Thompson (joint tenancy, recorded 2O08)\n  - Pau1 Thompson to Linda M. Thompson (interspousa1 transfer\n    deed fo11owing dissolution, recorded 2O19)\n  - Current vesting: LINDA M. TH0MPSON, an unmarried woman",
+                  "confidence": 0.95
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Current Vesting: Linda M. Thompson",
+          "fields": [
+            {
+              "key": "Vesting Owner",
+              "value": "Linda M. Thompson"
+            },
+            {
+              "key": "Vesting Description",
+              "value": "An unmarried woman"
+            }
+          ],
+          "badges": [],
+          "notes": null,
+          "action_items": [],
+          "citations": [
+            {
+              "claim": "Current vesting is in Linda M. Thompson, an unmarried woman.",
+              "spans": [
+                {
+                  "file": "title_search.txt",
+                  "line_start": 39,
+                  "line_end": 43,
+                  "raw_text": "NOTE: The chain of tit1e shows the fo11owing sequence of ownership:\n  - Pau1 and Mar1a Thompson (joint tenancy, recorded 2O08)\n  - Pau1 Thompson to Linda M. Thompson (interspousa1 transfer\n    deed fo11owing dissolution, recorded 2O19)\n  - Current vesting: LINDA M. TH0MPSON, an unmarried woman",
+                  "confidence": 0.99
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "citations": [
+        {
+          "claim": "Chain of title and current vesting for 4418 Cedar Ridge Dr, Riverside, CA 92504.",
+          "spans": [
+            {
+              "file": "title_search.txt",
+              "line_start": 39,
+              "line_end": 43,
+              "raw_text": "NOTE: The chain of tit1e shows the fo11owing sequence of ownership:\n  - Pau1 and Mar1a Thompson (joint tenancy, recorded 2O08)\n  - Pau1 Thompson to Linda M. Thompson (interspousa1 transfer\n    deed fo11owing dissolution, recorded 2O19)\n  - Current vesting: LINDA M. TH0MPSON, an unmarried woman",
+              "confidence": 0.98
+            }
+          ]
+        }
+      ],
+      "abstained": false
+    },
+    {
+      "id": "judgments",
+      "heading": "Outstanding Judgments and Tax Liens",
+      "body": null,
+      "blocks": [
+        {
+          "title": "Federal Tax Lien",
+          "fields": [
+            {
+              "key": "Type",
+              "value": "Federal Tax Lien"
+            },
+            {
+              "key": "Creditor",
+              "value": "INTERNAL REVENUE SERVICE"
+            },
+            {
+              "key": "Amount",
+              "value": "$47,829.03"
+            },
+            {
+              "key": "Tax Years",
+              "value": "2022-2023"
+            },
+            {
+              "key": "Recorded Date",
+              "value": "November 4, 2025"
+            },
+            {
+              "key": "Instrument No.",
+              "value": "2025-0114872"
+            },
+            {
+              "key": "Debtor",
+              "value": "Linda M. Thompson"
+            }
+          ],
+          "badges": [],
+          "notes": null,
+          "action_items": [],
+          "citations": [
+            {
+              "claim": "Notice of Federal Tax Lien filed by the Internal Revenue Service against Linda M. Thompson in the amount of $47,829.03 for tax years 2022-2023, recorded November 4, 2025 as Instrument No. 2025-0114872.",
+              "spans": [
+                {
+                  "file": "title_search.txt",
+                  "line_start": 21,
+                  "line_end": 24,
+                  "raw_text": "3. Notice of Federa1 Tax Lien fi1ed by the INTERNAL REVENUE\n   SERVICE against Linda M. Th0mpson in the amount of $47,829.03\n   for tax years 2022-2023, recorded November 4, 2O25 as\n   Instrument No. 2025-0114872.",
+                  "confidence": 1.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Mechanic's Lien",
+          "fields": [
+            {
+              "key": "Type",
+              "value": "Mechanic's Lien"
+            },
+            {
+              "key": "Claimant",
+              "value": "HERNANDEZ & SONS CONSTRUCTION"
+            },
+            {
+              "key": "Amount",
+              "value": "$18,650.00"
+            },
+            {
+              "key": "Work Period",
+              "value": "March to September 2025"
+            },
+            {
+              "key": "Recorded Date",
+              "value": "January 7, 2026"
+            },
+            {
+              "key": "Instrument No.",
+              "value": "2026-0004421"
+            }
+          ],
+          "badges": [],
+          "notes": null,
+          "action_items": [],
+          "citations": [
+            {
+              "claim": "Mechanic's Lien filed by HERNANDEZ & SONS CONSTRUCTION in the amount of $18,650.00 for unpaid remodeling work, recorded January 7, 2026 as Instrument No. 2026-0004421. Work performed between March and September 2025 per attached claim.",
+              "spans": [
+                {
+                  "file": "title_search.txt",
+                  "line_start": 26,
+                  "line_end": 29,
+                  "raw_text": "4. Mechanic's Lien fi1ed by HERNANDEZ & SONS CONSTRUCT1ON in the\n   amount of $18,650.00 for unpaid remode1ing work, recorded\n   January 7, 2O26 as Instrument No. 2026-0004421. Work performed\n   between March and September 2O25 per attached c1aim.",
+                  "confidence": 1.0
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "citations": [],
+      "abstained": false
+    }
+  ]
+}

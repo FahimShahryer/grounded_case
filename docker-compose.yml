@@ -1,0 +1,87 @@
+services:
+  postgres:
+    image: pgvector/pgvector:pg16
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-postgres}
+      POSTGRES_DB: caseai
+    volumes:
+      - pg_data:/var/lib/postgresql/data
+    ports:
+      - "5432:5432"
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U postgres -d caseai"]
+      interval: 5s
+      timeout: 3s
+      retries: 10
+
+  minio:
+    image: minio/minio:latest
+    command: server /data --console-address ":9001"
+    environment:
+      MINIO_ROOT_USER:     ${MINIO_ROOT_USER:-minioadmin}
+      MINIO_ROOT_PASSWORD: ${MINIO_ROOT_PASSWORD:-minioadmin}
+    volumes:
+      - minio_data:/data
+    ports:
+      - "9000:9000"   # S3 API
+      - "9001:9001"   # web console
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:9000/minio/health/live"]
+      interval: 5s
+      timeout: 3s
+      retries: 10
+
+  backend:
+    build: ./backend
+    environment:
+      DATABASE_URL: postgresql+asyncpg://postgres:${POSTGRES_PASSWORD:-postgres}@postgres:5432/caseai
+      OPENAI_API_KEY: ${OPENAI_API_KEY:-}
+      MODEL_PRIMARY: ${MODEL_PRIMARY:-gpt-4.1}
+      MODEL_CHEAP: ${MODEL_CHEAP:-gpt-4.1-mini}
+      EMBEDDING_MODEL: ${EMBEDDING_MODEL:-text-embedding-3-small}
+      DEBUG: ${DEBUG:-false}
+      MINIO_INTERNAL_ENDPOINT: ${MINIO_INTERNAL_ENDPOINT:-minio:9000}
+      MINIO_PUBLIC_ENDPOINT:   ${MINIO_PUBLIC_ENDPOINT:-localhost:9000}
+      MINIO_ACCESS_KEY:        ${MINIO_ROOT_USER:-minioadmin}
+      MINIO_SECRET_KEY:        ${MINIO_ROOT_PASSWORD:-minioadmin}
+      MINIO_BUCKET:            ${MINIO_BUCKET:-documents}
+      MINIO_SECURE:            ${MINIO_SECURE:-false}
+    volumes:
+      - ./backend/app:/app/app
+      - ./backend/scripts:/app/scripts
+      - ./backend/migrations:/app/migrations
+      - ./backend/tests:/app/tests
+      - ./data/rodriguez:/app/data/rodriguez:ro
+      - ./data/rodriguez_scans:/app/data/rodriguez_scans
+      - ./data/thompson:/app/data/thompson:ro
+      - ./outputs:/app/outputs
+      - backend_cache:/app/.cache
+    ports:
+      - "8000:8000"
+    depends_on:
+      postgres:
+        condition: service_healthy
+      minio:
+        condition: service_healthy
+
+  frontend:
+    build: ./frontend
+    environment:
+      BACKEND_URL: http://backend:8000                # server-side fetches
+      NEXT_PUBLIC_API_URL: http://localhost:8000      # browser fetches
+    volumes:
+      - ./frontend/src:/app/src
+      - ./frontend/tailwind.config.ts:/app/tailwind.config.ts
+      - ./frontend/postcss.config.mjs:/app/postcss.config.mjs
+      - ./frontend/next.config.ts:/app/next.config.ts
+      - ./frontend/tsconfig.json:/app/tsconfig.json
+    ports:
+      - "3000:3000"
+    depends_on:
+      - backend
+
+volumes:
+  pg_data:
+  backend_cache:
+  minio_data:

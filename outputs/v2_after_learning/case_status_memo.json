@@ -1,0 +1,720 @@
+{
+  "header": {
+    "servicer": "Wells Fargo"
+  },
+  "sections": [
+    {
+      "id": "action_items",
+      "body": "The following action items have been identified from the most recent court orders and servicer communications. Each entry is prioritized according to urgency and includes the associated deadline and responsible owner where specified.",
+      "blocks": [
+        {
+          "notes": "All communications must be sent to Nationstar Mortgage LLC d/b/a Mr. Cooper at the specified Dallas address effective April 1, 2026.",
+          "title": "Redirect All Correspondence to New Servicer",
+          "badges": [
+            "HIGH"
+          ],
+          "fields": [
+            {
+              "key": "Deadline",
+              "value": "April 1, 2026"
+            },
+            {
+              "key": "Owner",
+              "value": "Not specified"
+            }
+          ],
+          "citations": [
+            {
+              "claim": "Effective April 1, 2026, servicing of the above-referenced loan (Borrower: Carlos A. Rodriguez). Please direct all future correspondence, billing submissions, and status reports to Nationstar Mortgage LLC d/b/a Mr. Cooper, Attn: Default Servicing, 8950 Cypress Waters Blvd, Dallas, TX 75019.",
+              "spans": [
+                {
+                  "file": "servicer_email.pdf",
+                  "line_end": 11,
+                  "raw_text": "Effective April 1, 2026, servicing of the above-referenced loan (Borrower: Carlos A. R\nPlease direct all future correspondence, billing submissions, and status reports to Mr\nNationstar Mortgage LLC d/b/a Mr. Cooper\nAttn: Default Servicing\n8950 Cypress Waters Blvd, Dallas, TX 75019\nPhone: (888) 480-2432",
+                  "confidence": 0.99,
+                  "line_start": 6
+                }
+              ]
+            }
+          ],
+          "action_items": []
+        },
+        {
+          "notes": "All pending fee authorizations previously submitted under Wells Fargo require resubmission to the new servicer.",
+          "title": "Resubmit Fee Authorizations to New Servicer",
+          "badges": [
+            "HIGH"
+          ],
+          "fields": [
+            {
+              "key": "Deadline",
+              "value": "April 1, 2026"
+            },
+            {
+              "key": "Owner",
+              "value": "Not specified"
+            }
+          ],
+          "citations": [
+            {
+              "claim": "All pending fee authorizations under Wells Fargo will need to be resubmitted to the new servicer.",
+              "spans": [
+                {
+                  "file": "servicer_email.pdf",
+                  "line_end": 12,
+                  "raw_text": "Please note: all pending fee authorizations under Wells Fargo will need to be resubmit",
+                  "confidence": 0.99,
+                  "line_start": 12
+                }
+              ]
+            }
+          ],
+          "action_items": []
+        },
+        {
+          "notes": "The prior payoff figure of $487,920 should no longer be used in fee authorizations or billing.",
+          "title": "Disregard Earlier Payoff Figure",
+          "badges": [
+            "NORMAL"
+          ],
+          "fields": [
+            {
+              "key": "Owner",
+              "value": "Not specified"
+            }
+          ],
+          "citations": [
+            {
+              "claim": "Disregard the earlier $487,920 payoff figure.",
+              "spans": [
+                {
+                  "file": "servicer_email_2.txt",
+                  "line_end": 19,
+                  "raw_text": "Please disregard the earlier $487,920 figure. All fee authorizations",
+                  "confidence": 0.98,
+                  "line_start": 19
+                }
+              ]
+            }
+          ],
+          "action_items": []
+        }
+      ],
+      "heading": "Action Items and Urgent Tasks",
+      "abstained": false,
+      "citations": []
+    },
+    {
+      "id": "deadlines",
+      "body": null,
+      "blocks": [
+        {
+          "notes": null,
+          "title": "Case Management Report Filing Deadline",
+          "badges": [
+            "HIGH",
+            "ACTION REQUIRED"
+          ],
+          "fields": [
+            {
+              "key": "Date",
+              "value": "2026-04-12"
+            },
+            {
+              "key": "Required Action",
+              "value": "Plaintiff must file a Case Management Report."
+            },
+            {
+              "key": "What Must Happen By Then",
+              "value": "Report must include the current status of service on all defendants, any pending motions, estimated time to trial readiness, and whether mediation has been attempted or scheduled."
+            }
+          ],
+          "citations": [
+            {
+              "claim": "Plaintiff shall file a Case Management Report no later than ten (10) days prior to the conference. The report shall include: a. Current status of service on all defendants b. Any pending motions c. Estimated time to trial readiness d. Whether mediation has been attempted or scheduled.",
+              "spans": [
+                {
+                  "file": "court_order.pdf",
+                  "line_end": 26,
+                  "raw_text": "3. Plaintiff shall file a Case Management Report no later than\nten (10) days prior to the conference. The report shall\ninclude:\na. Current status of service on all defendants\nb. Any pending motions\nc. Estimated time to trial readiness\nd. Whether mediation has been attempted or scheduled",
+                  "confidence": 1.0,
+                  "line_start": 20
+                }
+              ]
+            }
+          ],
+          "action_items": [
+            "Prepare and file the Case Management Report by April 12, 2026."
+          ]
+        },
+        {
+          "notes": null,
+          "title": "Proof of Service Filing Deadline",
+          "badges": [
+            "HIGH",
+            "ACTION REQUIRED"
+          ],
+          "fields": [
+            {
+              "key": "Date",
+              "value": "2026-04-15"
+            },
+            {
+              "key": "Required Action",
+              "value": "File proof of service on all named defendants with the Court."
+            },
+            {
+              "key": "What Must Happen By Then",
+              "value": "Plaintiff (or relevant party) must ensure all proofs of service have been completed and filed."
+            }
+          ],
+          "citations": [
+            {
+              "claim": "Proof of service on all named defendants must be filed with the Court no later than April 15, 2026.",
+              "spans": [
+                {
+                  "file": "court_order.pdf",
+                  "line_end": 28,
+                  "raw_text": "4. Proof of service on all named defendants must be filed with\nthe Court no later than April 15, 2026.",
+                  "confidence": 1.0,
+                  "line_start": 27
+                }
+              ]
+            }
+          ],
+          "action_items": [
+            "File proof of service on all named defendants by April 15, 2026."
+          ]
+        },
+        {
+          "notes": null,
+          "title": "Case Management Conference",
+          "badges": [
+            "ASSIGNED"
+          ],
+          "fields": [
+            {
+              "key": "Date",
+              "value": "2026-04-22 at 10:00 AM"
+            },
+            {
+              "key": "Required Action",
+              "value": "All parties must appear in person before Judge Patricia Navarro."
+            },
+            {
+              "key": "What Must Happen By Then",
+              "value": "Attend the Case Management Conference at Courtroom 5-3, Miami-Dade County Courthouse, 73 W Flagler St, Miami, FL 33130. Failure to appear may result in sanctions, including striking of pleadings."
+            }
+          ],
+          "citations": [
+            {
+              "claim": "A Case Management Conference is set for April 22, 2026 at 10:00 AM before the Honorable Judge Patricia Navarro, Courtroom 5-3, Miami-Dade County Courthouse, 73 W Flagler St, Miami, FL 33130. All parties shall appear. Failure to appear may result in sanctions, including striking of pleadings.",
+              "spans": [
+                {
+                  "file": "court_order.pdf",
+                  "line_end": 19,
+                  "raw_text": "1. A Case Management Conference is set for April 22, 2026 at\n10:00 AM before the Honorable Judge Patricia Navarro,\nCourtroom 5-3, Miami-Dade County Courthouse,\n73 W Flagler St, Miami, FL 33130.\n2. All parties shall appear. Failure to appear may result in\nsanctions, including striking of pleadings.",
+                  "confidence": 1.0,
+                  "line_start": 14
+                }
+              ]
+            }
+          ],
+          "action_items": [
+            "Ensure all parties are present in person at the conference on April 22, 2026 at 10:00 AM."
+          ]
+        }
+      ],
+      "heading": "Upcoming Deadlines, Filing Requirements, and Hearings",
+      "abstained": false,
+      "citations": [
+        {
+          "claim": "Plaintiff shall file a Case Management Report no later than ten (10) days prior to the conference. The report shall include: a. Current status of service on all defendants b. Any pending motions c. Estimated time to trial readiness d. Whether mediation has been attempted or scheduled.",
+          "spans": [
+            {
+              "file": "court_order.pdf",
+              "line_end": 26,
+              "raw_text": "3. Plaintiff shall file a Case Management Report no later than\nten (10) days prior to the conference. The report shall\ninclude:\na. Current status of service on all defendants\nb. Any pending motions\nc. Estimated time to trial readiness\nd. Whether mediation has been attempted or scheduled",
+              "confidence": 1.0,
+              "line_start": 20
+            }
+          ]
+        },
+        {
+          "claim": "Proof of service on all named defendants must be filed with the Court no later than April 15, 2026.",
+          "spans": [
+            {
+              "file": "court_order.pdf",
+              "line_end": 28,
+              "raw_text": "4. Proof of service on all named defendants must be filed with\nthe Court no later than April 15, 2026.",
+              "confidence": 1.0,
+              "line_start": 27
+            }
+          ]
+        },
+        {
+          "claim": "A Case Management Conference is set for April 22, 2026 at 10:00 AM before the Honorable Judge Patricia Navarro, Courtroom 5-3, Miami-Dade County Courthouse, 73 W Flagler St, Miami, FL 33130. All parties shall appear. Failure to appear may result in sanctions, including striking of pleadings.",
+          "spans": [
+            {
+              "file": "court_order.pdf",
+              "line_end": 19,
+              "raw_text": "1. A Case Management Conference is set for April 22, 2026 at\n10:00 AM before the Honorable Judge Patricia Navarro,\nCourtroom 5-3, Miami-Dade County Courthouse,\n73 W Flagler St, Miami, FL 33130.\n2. All parties shall appear. Failure to appear may result in\nsanctions, including striking of pleadings.",
+              "confidence": 1.0,
+              "line_start": 14
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "payoff",
+      "body": "The current payoff amount for the loan is $490,527.44 as of March 22, 2026, based on the latest servicer communication, reflecting accrued interest, late charges, and a newly posted corporate advance. This represents an increase from the prior quoted amount of $487,920.00 as of March 1, 2026.",
+      "blocks": [
+        {
+          "notes": "Payoff updated from $487,920.00 (Mar 1, 2026) to $490,527.44 (Mar 22, 2026) to include accrued interest, late charges, and a corporate advance for hazard insurance.",
+          "title": "Updated Payoff Amount",
+          "badges": [
+            "ASSIGNED"
+          ],
+          "fields": [
+            {
+              "key": "Amount",
+              "value": "$490,527.44"
+            },
+            {
+              "key": "As Of Date",
+              "value": "March 22, 2026"
+            },
+            {
+              "key": "Source",
+              "value": "Servicer Email (March 22, 2026, Marcus Bell, Wells Fargo Servicing)"
+            },
+            {
+              "key": "Previous Payoff",
+              "value": "$487,920.00 (March 1, 2026)"
+            }
+          ],
+          "citations": [
+            {
+              "claim": "Current payoff is $490,527.44 as of March 22, 2026.",
+              "spans": [
+                {
+                  "file": "servicer_email_2.txt",
+                  "line_end": 17,
+                  "raw_text": "Please note that the payoff amount has been revised. The current\npayoff is now $490,527.44 as of March 22, 2026 (up from $487,920.00\nquoted on March 15). The increase reflects accrued interest, late\ncharges, and a corporate advance posted on March 18 for force-placed\nhazard insurance that our prior quote did not include.",
+                  "confidence": 1.0,
+                  "line_start": 13
+                }
+              ]
+            },
+            {
+              "claim": "Previous payoff was $487,920.00 as of March 1, 2026.",
+              "spans": [
+                {
+                  "file": "servicer_email.pdf",
+                  "line_end": 14,
+                  "raw_text": "The updated payoff amount as of March 1, 2026 is $487,920.00. Please update your recor",
+                  "confidence": 1.0,
+                  "line_start": 14
+                }
+              ]
+            }
+          ],
+          "action_items": []
+        }
+      ],
+      "heading": "Payoff Amount and Effective Date",
+      "abstained": false,
+      "citations": [
+        {
+          "claim": "Current payoff is $490,527.44 as of March 22, 2026.",
+          "spans": [
+            {
+              "file": "servicer_email_2.txt",
+              "line_end": 17,
+              "raw_text": "Please note that the payoff amount has been revised. The current\npayoff is now $490,527.44 as of March 22, 2026 (up from $487,920.00\nquoted on March 15). The increase reflects accrued interest, late\ncharges, and a corporate advance posted on March 18 for force-placed\nhazard insurance that our prior quote did not include.",
+              "confidence": 1.0,
+              "line_start": 13
+            }
+          ]
+        },
+        {
+          "claim": "Previous payoff was $487,920.00 as of March 1, 2026.",
+          "spans": [
+            {
+              "file": "servicer_email.pdf",
+              "line_end": 14,
+              "raw_text": "The updated payoff amount as of March 1, 2026 is $487,920.00. Please update your recor",
+              "confidence": 1.0,
+              "line_start": 14
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "servicing",
+      "body": "This section addresses the recent servicing transfer for the subject loan and details for borrower's counsel. The servicing of the loan for Carlos A. Rodriguez has been transferred from Wells Fargo to Nationstar Mortgage LLC d/b/a Mr. Cooper, effective April 1, 2026. All post-transfer correspondence should be directed to Mr. Cooper. Counsel for the borrower is Midwest Legal Partners, LLP.",
+      "blocks": [
+        {
+          "notes": "All correspondence after April 1, 2026, must be sent to Mr. Cooper as per the March 15, 2026 notification.",
+          "title": "Servicing Transfer Details",
+          "badges": [
+            "ACTIVE TRANSFER"
+          ],
+          "fields": [
+            {
+              "key": "From Servicer",
+              "value": "Wells Fargo"
+            },
+            {
+              "key": "To Servicer",
+              "value": "Nationstar Mortgage LLC d/b/a Mr. Cooper"
+            },
+            {
+              "key": "Effective Date",
+              "value": "April 1, 2026"
+            },
+            {
+              "key": "Instructions",
+              "value": "Direct all future correspondence, billing, and status reports to Mr. Cooper."
+            }
+          ],
+          "citations": [
+            {
+              "claim": "Servicing transfer from Wells Fargo to Nationstar Mortgage LLC d/b/a Mr. Cooper effective April 1, 2026.",
+              "spans": [
+                {
+                  "file": "servicer_email.pdf",
+                  "line_end": 11,
+                  "raw_text": "Subject: Notice of Servicing Transfer \t6 Rodriguez, Carlos / Loan 2021-0123456\nDear Counsel,\nEffective April 1, 2026, servicing of the above-referenced loan (Borrower: Carlos A. R\nPlease direct all future correspondence, billing submissions, and status reports to Mr\nNationstar Mortgage LLC d/b/a Mr. Cooper\nAttn: Default Servicing\n8950 Cypress Waters Blvd, Dallas, TX 75019\nPhone: (888) 480-2432",
+                  "confidence": 0.99,
+                  "line_start": 4
+                },
+                {
+                  "file": "servicer_email_2.txt",
+                  "line_end": 24,
+                  "raw_text": "Reminder: servicing transfer to Nationstar Mortgage LLC d/b/a\nMr. Cooper remains effective April 1, 2026. All correspondence after\nthat date goes to Mr. Cooper per the March 15 email.",
+                  "confidence": 0.98,
+                  "line_start": 22
+                }
+              ]
+            }
+          ],
+          "action_items": []
+        },
+        {
+          "notes": null,
+          "title": "Borrower's Counsel",
+          "badges": [],
+          "fields": [
+            {
+              "key": "Firm",
+              "value": "Midwest Legal Partners, LLP"
+            },
+            {
+              "key": "Counsel Name",
+              "value": "Midwest Legal Partners, LLP"
+            },
+            {
+              "key": "Represents",
+              "value": "Carlos Rodriguez"
+            }
+          ],
+          "citations": [
+            {
+              "claim": "Borrower's counsel is Midwest Legal Partners, LLP, representing Carlos Rodriguez.",
+              "spans": [
+                {
+                  "file": "servicer_email_2.txt",
+                  "line_end": 4,
+                  "raw_text": "To: Midwest Legal Partners, LLP\nSubject: UPDATED Payoff \u0014 Rodriguez, Carlos / Loan 2021-0123456",
+                  "confidence": 0.95,
+                  "line_start": 3
+                }
+              ]
+            }
+          ],
+          "action_items": []
+        }
+      ],
+      "heading": "Servicing Transfer and Borrower's Counsel",
+      "abstained": false,
+      "citations": [
+        {
+          "claim": "Servicing transfer effective April 1, 2026; Mr. Cooper is new servicer; all correspondence post-transfer goes to Mr. Cooper.",
+          "spans": [
+            {
+              "file": "servicer_email.pdf",
+              "line_end": 11,
+              "raw_text": "Subject: Notice of Servicing Transfer \t6 Rodriguez, Carlos / Loan 2021-0123456\nDear Counsel,\nEffective April 1, 2026, servicing of the above-referenced loan (Borrower: Carlos A. R\nPlease direct all future correspondence, billing submissions, and status reports to Mr\nNationstar Mortgage LLC d/b/a Mr. Cooper\nAttn: Default Servicing\n8950 Cypress Waters Blvd, Dallas, TX 75019\nPhone: (888) 480-2432",
+              "confidence": 0.99,
+              "line_start": 4
+            },
+            {
+              "file": "servicer_email_2.txt",
+              "line_end": 24,
+              "raw_text": "Reminder: servicing transfer to Nationstar Mortgage LLC d/b/a\nMr. Cooper remains effective April 1, 2026. All correspondence after\nthat date goes to Mr. Cooper per the March 15 email.",
+              "confidence": 0.98,
+              "line_start": 22
+            }
+          ]
+        },
+        {
+          "claim": "Borrower's counsel is Midwest Legal Partners, LLP.",
+          "spans": [
+            {
+              "file": "servicer_email_2.txt",
+              "line_end": 4,
+              "raw_text": "To: Midwest Legal Partners, LLP\nSubject: UPDATED Payoff \u0014 Rodriguez, Carlos / Loan 2021-0123456",
+              "confidence": 0.95,
+              "line_start": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "title_concerns",
+      "body": "Summary of key title concerns impacting the case, including current liens, recent tax delinquency designations, HOA lis pendens, and other recorded encumbrances. Each item below is cited to source title documents.",
+      "blocks": [
+        {
+          "notes": "Notice of Lis Pendens filed by the HOA for unpaid assessments. This is a critical encumbrance; party-naming and response required for foreclosure posture.",
+          "title": "HOA Lis Pendens for Unpaid Assessments",
+          "badges": [
+            "URGENT",
+            "ACTION REQUIRED"
+          ],
+          "fields": [
+            {
+              "key": "Creditor",
+              "value": "Palmetto Bay Homeowners Association, Inc."
+            },
+            {
+              "key": "Amount",
+              "value": "$3,420.00"
+            },
+            {
+              "key": "Instrument No.",
+              "value": "2026-0034567"
+            },
+            {
+              "key": "Date Filed",
+              "value": "2026-01-22"
+            },
+            {
+              "key": "Status",
+              "value": "ACTIVE"
+            }
+          ],
+          "citations": [
+            {
+              "claim": "Notice of Lis Pendens filed by PALMETTO BAY HOMEOWNERS ASSOCIATION, INC. on January 22, 2026 in the amount of $3,420.00 for unpaid assessments, recorded as Instrument No. 2026-0034567.",
+              "spans": [
+                {
+                  "file": "title_search_page1.pdf",
+                  "line_end": 22,
+                  "raw_text": "[L20] 4. Notice of Lis Pendens filed by PALMETTO BAY HOMEOWNERS ASSOCIATION,\n[L21] INC. on January 22, 2026 in the amount of $3,420.00 for unpaid\n[L22] assessments, recorded as Instrument No. 2026-0034567.",
+                  "confidence": 0.98,
+                  "line_start": 20
+                }
+              ]
+            }
+          ],
+          "action_items": [
+            "Review and address the HOA's lis pendens in current proceedings; determine implications for party-naming and potential priority."
+          ]
+        },
+        {
+          "notes": "2025 property taxes are currently unpaid and have been reported as delinquent. These taxes are a superior lien on the property.",
+          "title": "2025 Property Taxes \u2013 Unpaid and Delinquent Status Reported",
+          "badges": [
+            "DELINQUENT",
+            "HIGH"
+          ],
+          "fields": [
+            {
+              "key": "Tax Year",
+              "value": "2025"
+            },
+            {
+              "key": "Amount",
+              "value": "$8,247.00"
+            },
+            {
+              "key": "Parcel Number",
+              "value": "33-5022-014-0290"
+            },
+            {
+              "key": "Status",
+              "value": "UNPAID; DELINQUENT (Due Nov 1, 2025)"
+            }
+          ],
+          "citations": [
+            {
+              "claim": "2025 property taxes in the amount of $8,247.00 are a lien, unpaid, and delinquent as of the due date November 1, 2025.",
+              "spans": [
+                {
+                  "file": "title_search_page2.pdf",
+                  "line_end": 11,
+                  "raw_text": "[L11] Tax Year 2025: UNPAID \t6 $8,247.00 (due November 1, 2025 \t6 DELINQUENT)",
+                  "confidence": 0.98,
+                  "line_start": 11
+                },
+                {
+                  "file": "title_search_page1.pdf",
+                  "line_end": 11,
+                  "raw_text": "[L8] 1. Property taxes and assessments for the year 2025 and subsequent years,\n[L9] which are a lien but not yet due and payable.\n[L10] Amount: $8,247.00\n[L11] Tax Parcel No.: 33-5022-014-0290",
+                  "confidence": 0.97,
+                  "line_start": 8
+                }
+              ]
+            }
+          ],
+          "action_items": [
+            "Immediate assessment and payoff calculation for 2025 taxes; confirm actual status with Miami-Dade tax office."
+          ]
+        },
+        {
+          "notes": "Mortgage originated with Wells Fargo and assigned to Nationstar Mortgage LLC d/b/a Mr. Cooper on September 14, 2025.",
+          "title": "Current Mortgage and Assignment",
+          "badges": [
+            "ASSIGNED"
+          ],
+          "fields": [
+            {
+              "key": "Original Lender",
+              "value": "Wells Fargo Bank, N.A."
+            },
+            {
+              "key": "Original Amount",
+              "value": "$445,000.00"
+            },
+            {
+              "key": "Mortgage Dated",
+              "value": "2021-02-08"
+            },
+            {
+              "key": "Recorded Date",
+              "value": "2021-02-15"
+            },
+            {
+              "key": "Instrument No.",
+              "value": "2021-0123456"
+            },
+            {
+              "key": "Assignment To",
+              "value": "Nationstar Mortgage LLC d/b/a Mr. Cooper"
+            },
+            {
+              "key": "Assignment Recorded",
+              "value": "2025-09-14"
+            },
+            {
+              "key": "Assignment Instrument",
+              "value": "2025-0891234"
+            }
+          ],
+          "citations": [
+            {
+              "claim": "Mortgage from Carlos A. Rodriguez to Wells Fargo Bank, N.A. in the amount of $445,000.00 dated February 8, 2021, recorded February 15, 2021 as Instrument No. 2021-0123456.",
+              "spans": [
+                {
+                  "file": "title_search_page1.pdf",
+                  "line_end": 15,
+                  "raw_text": "[L12] 2. Mortgage from CARLOS A. RODRIGUEZ to WELLS FARGO BANK, N.A. in the\n[L13] original amount of $445,000.00 dated February 8, 2021 and recorded\n[L14] February 15, 2021 as Instrument No. 2021-0123456 in the Official\n[L15] Records of Miami-Dade County, Florida.",
+                  "confidence": 0.97,
+                  "line_start": 12
+                }
+              ]
+            },
+            {
+              "claim": "Assignment of Mortgage from Wells Fargo Bank, N.A. to Nationstar Mortgage LLC d/b/a Mr. Cooper recorded September 14, 2025 as Instrument No. 2025-0891234.",
+              "spans": [
+                {
+                  "file": "title_search_page1.pdf",
+                  "line_end": 19,
+                  "raw_text": "[L16] 3. Assignment of Mortgage from WE11S FARGO BANK, N.A. to NATIONSTAR\n[L17] MORTGAGE LLC D/B/A MR. COOPER recorded September 14, 2025 as\n[L18] Instrument No. 2025-0891234 in the Official Records of Miami-Dade\n[L19] County, Florida.",
+                  "confidence": 0.97,
+                  "line_start": 16
+                }
+              ]
+            }
+          ],
+          "action_items": []
+        },
+        {
+          "notes": "Recorded easement for electrical transmission lines, which may affect property use and development.",
+          "title": "Easement \u2013 Florida Power & Light Company",
+          "badges": [],
+          "fields": [
+            {
+              "key": "Grantee",
+              "value": "Florida Power & Light Company"
+            },
+            {
+              "key": "Purpose",
+              "value": "Electrical transmission lines"
+            },
+            {
+              "key": "Book/Page",
+              "value": "O.R. Book 18924, Page 445"
+            },
+            {
+              "key": "Status",
+              "value": "Active"
+            }
+          ],
+          "citations": [
+            {
+              "claim": "Easement in favor of Florida Power & Light Company for electrical transmission lines, recorded in O.R. Book 18924, Page 445.",
+              "spans": [
+                {
+                  "file": "title_search_page1.pdf",
+                  "line_end": 24,
+                  "raw_text": "[L23] 5. Easement in favor of Florida Power & Light Company for electrical\n[L24] transmission lines, recorded in 0.R. Book 18924, Page 445.",
+                  "confidence": 0.96,
+                  "line_start": 23
+                }
+              ]
+            }
+          ],
+          "action_items": []
+        },
+        {
+          "notes": "Restrictive covenants affecting property rights and uses, as amended. Assess for impacts on intended disposition or use.",
+          "title": "Restrictive Covenants \u2013 Recorded and Amended",
+          "badges": [],
+          "fields": [
+            {
+              "key": "Book/Page",
+              "value": "O.R. Book 12031, Page 892, as amended by O.R. Book 15677, Page 1021"
+            },
+            {
+              "key": "Status",
+              "value": "Active"
+            }
+          ],
+          "citations": [
+            {
+              "claim": "Restrictive covenants recorded in O.R. Book 12031, Page 892, as amended by instrument in O.R. Book 15677, Page 1021.",
+              "spans": [
+                {
+                  "file": "title_search_page1.pdf",
+                  "line_end": 26,
+                  "raw_text": "[L25] 6. Restrictive covenants recorded in 0.R. Book 12031, Page 892,\n[L26] as amended by instrument recorded in 0.R. Book 15677, Page 1021.",
+                  "confidence": 0.95,
+                  "line_start": 25
+                }
+              ]
+            }
+          ],
+          "action_items": []
+        }
+      ],
+      "heading": "Title Concerns Relevant to Case Posture",
+      "abstained": false,
+      "citations": []
+    }
+  ]
+}

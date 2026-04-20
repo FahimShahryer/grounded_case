@@ -1,0 +1,153 @@
+- id: 12
+  scope: operator
+  draft_type: case_status_memo
+  section_id: ~
+  confidence: 0.950
+  version: 1
+  active: true
+  rule_when: 'summarizing case status'
+  rule_must: 'integrate and cross-reference facts from all major source documents (e.g., court orders, title searches, emails) to provide a unified and comprehensive picture'
+  supporting_edit_ids: [2]
+
+- id: 2
+  scope: operator
+  draft_type: title_review_summary
+  section_id: ~
+  confidence: 0.900
+  version: 1
+  active: true
+  rule_when: 'including lien blocks'
+  rule_must: 'include instrument number and recording details for every lien'
+  supporting_edit_ids: [1]
+
+- id: 10
+  scope: operator
+  draft_type: case_status_memo
+  section_id: ~
+  confidence: 0.900
+  version: 1
+  active: true
+  rule_when: 'case_status_memo includes critical time-sensitive events or obligations'
+  rule_must: "present these as prioritized ACTION ITEMS ranked by urgency rather than a generic 'recent developments' list"
+  supporting_edit_ids: [2]
+
+- id: 11
+  scope: operator
+  draft_type: case_status_memo
+  section_id: ~
+  confidence: 0.900
+  version: 1
+  active: true
+  rule_when: 'listing deadlines for case events or filings'
+  rule_must: 'include both the date and a clear description of the associated required action for each deadline'
+  supporting_edit_ids: [2]
+
+- id: 4
+  scope: operator
+  draft_type: title_review_summary
+  section_id: ~
+  confidence: 0.850
+  version: 1
+  active: true
+  rule_when: 'noting HOA lis pendens or other critical actionable items'
+  rule_must: 'flag the item with an ACTION REQUIRED badge instead of listing passively'
+  supporting_edit_ids: [1]
+
+- id: 1
+  scope: operator
+  draft_type: title_review_summary
+  section_id: header
+  confidence: 0.800
+  version: 1
+  active: true
+  rule_when: 'creating the header block'
+  rule_must: 'include county, state, and effective date'
+  supporting_edit_ids: [1]
+
+- id: 5
+  scope: operator
+  draft_type: title_review_summary
+  section_id: ~
+  confidence: 0.800
+  version: 1
+  active: true
+  rule_when: 'structuring the summary'
+  rule_must: 'use clearly labeled sections for LIENS, TAX STATUS, OWNERSHIP, OTHER MATTERS, and REVIEWER NOTES'
+  supporting_edit_ids: [1]
+
+- id: 13
+  scope: operator
+  draft_type: case_status_memo
+  section_id: ~
+  confidence: 0.800
+  version: 1
+  active: true
+  rule_when: 'preparing memo'
+  rule_must: "extract and explicitly list key identification details (preparation date, court, judge, case number, parties' counsel) from authoritative sources"
+  supporting_edit_ids: [2]
+
+- id: 14
+  scope: operator
+  draft_type: case_status_memo
+  section_id: title_concerns
+  confidence: 0.800
+  version: 1
+  active: true
+  rule_when: 'there are title search findings relevant to the case'
+  rule_must: 'add a section addressing title concerns citing details from title search documents'
+  supporting_edit_ids: [2]
+
+- id: 6
+  scope: operator
+  draft_type: title_review_summary
+  section_id: tax_status
+  confidence: 0.750
+  version: 1
+  active: true
+  rule_when: 'presenting tax status information'
+  rule_must: 'highlight the delinquency status'
+  supporting_edit_ids: [1]
+
+- id: 7
+  scope: operator
+  draft_type: title_review_summary
+  section_id: reviewer_notes
+  confidence: 0.750
+  version: 1
+  active: true
+  rule_when: 'adding reviewer notes'
+  rule_must: 'include actionable items for attorney review'
+  supporting_edit_ids: [1]
+
+- id: 3
+  scope: operator
+  draft_type: title_review_summary
+  section_id: ~
+  confidence: 0.700
+  version: 1
+  active: true
+  rule_when: 'listing liens'
+  rule_must: "include lien position context (e.g., 'First Mortgage') and status (e.g., 'ASSIGNED') for each lien"
+  supporting_edit_ids: [1]
+
+- id: 8
+  scope: operator
+  draft_type: title_review_summary
+  section_id: ~
+  confidence: 0.700
+  version: 1
+  active: true
+  rule_when: 'chain of title is relevant'
+  rule_must: 'include satisfaction instruments to demonstrate a clean chain of title'
+  supporting_edit_ids: [1]
+
+- id: 9
+  scope: operator
+  draft_type: title_review_summary
+  section_id: ~
+  confidence: 0.700
+  version: 1
+  active: true
+  rule_when: 'there is a servicing transfer or similar event'
+  rule_must: 'cross-reference the event with supporting evidence (such as an email)'
+  supporting_edit_ids: [1]

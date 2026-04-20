@@ -1,0 +1,9 @@
+Alembic migrations, async.
+
+- Apply all:           alembic upgrade head          (or: make migrate)
+- Roll back one:       alembic downgrade -1          (or: make migrate-down)
+- Autogenerate new:    alembic revision --autogenerate -m "message"
+                                                     (or: make migrate-create msg="message")
+
+env.py pulls the DB URL from `app.config.settings`, so no credentials
+live in alembic.ini.

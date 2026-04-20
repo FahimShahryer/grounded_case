@@ -1,0 +1,901 @@
+{
+  "header": {
+    "servicer": "Chase Home Finance (transferring to Rocket Mortgage effective May 15, 2026)",
+    "case_status": "pre_filing"
+  },
+  "sections": [
+    {
+      "id": "action_items",
+      "heading": "Action Items and Urgent Tasks",
+      "body": "This section lists all current action items and urgent tasks for 4418 Cedar Ridge Dr, Riverside, CA 92504 (Case No. 2026-FC-03217), as drawn from both servicer communications and the latest court order. Each action item includes its priority, deadline (if applicable), and explicit assignment to an owner only where the source document or communication establishes responsibility. Where owner is not stated in the evidence, the field is omitted. Items are cross-referenced to authoritative evidence, and deadlines are directly linked to their required actions.",
+      "blocks": [
+        {
+          "title": "Direct all correspondence to Rocket Mortgage",
+          "fields": [
+            {
+              "key": "Deadline",
+              "value": "May 15, 2026"
+            }
+          ],
+          "badges": [
+            "HIGH"
+          ],
+          "notes": "Effective May 15, 2026, all loan servicing responsibilities transfer from Chase Home Finance to Rocket Mortgage. Any invoices submitted to Chase after this date will be rejected.",
+          "action_items": [
+            "After May 15, 2026, send all future correspondence, billing, and status reports regarding the loan to Rocket Mortgage."
+          ],
+          "citations": [
+            {
+              "claim": "Direct all future correspondence, billing, and status reports regarding the loan to Rocket Mortgage after May 15, 2026.",
+              "spans": [
+                {
+                  "file": "servicer_email.txt",
+                  "line_start": 10,
+                  "line_end": 15,
+                  "raw_text": "First, effective May 15, 2026, the servicing of this loan will transfer from\nChase Home Finance to Rocket Mortgage. Please direct all future correspondence,\nbilling, and status reports to Rocket Mortgage after that date. The new address\nis 1050 Woodward Ave, Detroit, MI 48226 and the new contact is Marcus Alvarez\n(malvarez@rocketmortgage.com). Any invoices submitted to Chase after May 15\nwill be bounced, so please route accordingly.",
+                  "confidence": 1.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Confirm appearance at case management conference",
+          "fields": [
+            {
+              "key": "Deadline",
+              "value": "June 18, 2026"
+            }
+          ],
+          "badges": [
+            "HIGH"
+          ],
+          "notes": "Conference set in attached court order; confirmation of appearance required.",
+          "action_items": [
+            "Confirm your appearance at the case management conference scheduled for June 18, 2026."
+          ],
+          "citations": [
+            {
+              "claim": "Case management conference is set for June 18, 2026 (see attached court order). Please confirm your appearance.",
+              "spans": [
+                {
+                  "file": "servicer_email.txt",
+                  "line_start": 36,
+                  "line_end": 37,
+                  "raw_text": "- Case management conference is set for June 18, 2026 (see attached court\norder). Please confirm your appearance.",
+                  "confidence": 1.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Review IRS party status for federal tax lien",
+          "fields": [],
+          "badges": [
+            "HIGH"
+          ],
+          "notes": "Review whether a newly filed federal tax lien requires the IRS to be named as a party defendant in the foreclosure complaint, due to statutory notice requirements under 28 U.S.C. \u00a7 2410. Advise accordingly.",
+          "action_items": [
+            "Determine if the IRS must be joined as a party defendant based on new federal tax lien and statutory notice requirements."
+          ],
+          "citations": [
+            {
+              "claim": "Review whether the IRS needs to be named as a party defendant in the foreclosure complaint due to a newly filed federal tax lien and applicable statutory notice requirements. Advise accordingly.",
+              "spans": [
+                {
+                  "file": "servicer_email.txt",
+                  "line_start": 19,
+                  "line_end": 23,
+                  "raw_text": "- We received a lien-title update showing a federal tax lien filed against the\n  borrower by the IRS for $47,829.03. Please review whether the IRS needs to be\n  named as a party defendant in the foreclosure complaint \u0015 our understanding\n  is the federal statutory redemption period creates specific notice requirements\n  under 28 U.S.C. a7 2410. Please advise.",
+                  "confidence": 1.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Address Hernandez & Sons mechanic's lien before sale",
+          "fields": [],
+          "badges": [
+            "HIGH"
+          ],
+          "notes": "A mechanic's lien for $18,650.00 from Hernandez & Sons Construction is outstanding and flagged on title; must be resolved prior to property sale.",
+          "action_items": [
+            "Resolve the mechanic's lien for $18,650.00 from Hernandez & Sons Construction prior to any sale."
+          ],
+          "citations": [
+            {
+              "claim": "Address the mechanic's lien for $18,650.00 from Hernandez & Sons Construction before any sale.",
+              "spans": [
+                {
+                  "file": "servicer_email.txt",
+                  "line_start": 25,
+                  "line_end": 27,
+                  "raw_text": "- Also flagged on title: a mechanic's lien for $18,650.00 from Hernandez & Sons\n  Construction for a bathroom/kitchen remodel. Needs to be addressed before\n  any sale.",
+                  "confidence": 1.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "File proof of service on all named defendants, including IRS",
+          "fields": [
+            {
+              "key": "Deadline",
+              "value": "June 1, 2026"
+            }
+          ],
+          "badges": [
+            "HIGH"
+          ],
+          "notes": "The court order requires filing proof of service, including on the IRS under 28 U.S.C. \u00a7 2410.",
+          "action_items": [
+            "File proof of service for all named defendants, including the Internal Revenue Service."
+          ],
+          "citations": [
+            {
+              "claim": "Proof of service on all named defendants, including the Internal Revenue Service pursuant to 28 U.S.C. \u00a7 2410, must be filed no later than June 1, 2026.",
+              "spans": [
+                {
+                  "file": "court_order.txt",
+                  "line_start": 24,
+                  "line_end": 26,
+                  "raw_text": "3. Proof of service on all named defendants, including the Internal\n   Revenue Service pursuant to 28 U.S.C. \u00a7 2410, must be filed no later\n   than June 1, 2026.",
+                  "confidence": 1.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "File case management statement addressing specified topics",
+          "fields": [
+            {
+              "key": "Deadline",
+              "value": "June 8, 2026"
+            }
+          ],
+          "badges": [
+            "HIGH"
+          ],
+          "notes": "Per court order, Plaintiff shall file a Case Management Statement by June 8, 2026, ten days before the conference. The statement must address service, parties to be joined (including federal agencies), settlement status, trial readiness, and any pending motions.",
+          "action_items": [
+            "File a Case Management Statement covering all topics specified in court order by June 8, 2026."
+          ],
+          "citations": [
+            {
+              "claim": "Plaintiff shall file a Case Management Statement no later than June 8, 2026 \u2014 ten (10) calendar days prior to the conference.",
+              "spans": [
+                {
+                  "file": "court_order.txt",
+                  "line_start": 17,
+                  "line_end": 22,
+                  "raw_text": "2. Plaintiff shall file a Case Management Statement no later than\n   June 8, 2026 \u2014 ten (10) calendar days prior to the conference. The\n   statement must address: (a) service of process on all named defendants,\n   (b) any defendants who must be joined including federal agencies,\n   (c) status of settlement discussions, (d) trial readiness estimate,\n   and (e) any pending motions.",
+                  "confidence": 1.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Refresh BPO or valuation with updated payoff",
+          "fields": [],
+          "badges": [
+            "NORMAL"
+          ],
+          "notes": "Updated payoff is $643,718.44 as of April 1, 2026. Any pending BPO or valuation work should use this figure.",
+          "action_items": [
+            "Refresh any pending BPO or valuation work using the payoff figure $643,718.44 as of April 1, 2026."
+          ],
+          "citations": [
+            {
+              "claim": "Refresh any pending BPO or valuation work using the updated payoff amount of $643,718.44 as of April 1, 2026.",
+              "spans": [
+                {
+                  "file": "servicer_email.txt",
+                  "line_start": 29,
+                  "line_end": 30,
+                  "raw_text": "- Updated payoff as of April 1, 2026: $643,718.44. Please refresh any pending\n  BPO or valuation work with this figure.",
+                  "confidence": 1.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Log borrower correspondence per protocol until counsel retained",
+          "fields": [],
+          "badges": [
+            "NORMAL"
+          ],
+          "notes": "As borrower Linda M. Thompson has not retained counsel as of the latest communication, continue logging and handling all inbound borrower correspondence through Chase Home Finance per standard protocol until counsel is noted.",
+          "action_items": [
+            "Log inbound correspondence from Thompson and handle through Chase per standard protocol until counsel is retained."
+          ],
+          "citations": [
+            {
+              "claim": "Log any inbound correspondence from Thompson per standard protocol and continue to handle through Chase Home Finance until the borrower retains counsel.",
+              "spans": [
+                {
+                  "file": "servicer_email.txt",
+                  "line_start": 32,
+                  "line_end": 34,
+                  "raw_text": "- Borrower has NOT retained counsel as of today. Any inbound correspondence from\nThompson should still be logged per standard protocol but continue to be\nhandled through us until counsel is noted.",
+                  "confidence": 1.0
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "citations": [],
+      "abstained": false
+    },
+    {
+      "id": "deadlines",
+      "heading": "Upcoming Deadlines, Filings, and Hearings",
+      "body": "This section outlines all known upcoming case deadlines, required filings, and scheduled hearings in chronological order. Key identification details are included per operator guidelines. All facts are cross-referenced to official court orders and corroborating email communications to present a unified and comprehensive timeline of required actions in this case.\n\nCase Identification Details:\n- Preparation Date: Not specified in evidence\n- Court: Not stated in source but inferred as Riverside, CA (see jurisdiction)\n- Judge: Not identified in available materials\n- Case Number: 2026-FC-03217\n- Parties' Counsel: All counsel of record (as per court order)\n\nPlease review all events and associated requirements below. Action items are prioritized by urgency and statutory compliance.",
+      "blocks": [
+        {
+          "title": "Proof of Service Deadline",
+          "fields": [
+            {
+              "key": "Date",
+              "value": "June 1, 2026"
+            },
+            {
+              "key": "Required Action",
+              "value": "File proof of service on all named defendants, including the Internal Revenue Service pursuant to 28 U.S.C. \u00a7 2410."
+            },
+            {
+              "key": "What Must Happen By Then",
+              "value": "Proof of service must be filed with the Court to establish proper notice to all parties."
+            }
+          ],
+          "badges": [
+            "ACTION REQUIRED",
+            "URGENT"
+          ],
+          "notes": null,
+          "action_items": [
+            "Prepare and file proof of service on all named defendants, including the IRS, by June 1, 2026."
+          ],
+          "citations": [
+            {
+              "claim": "Proof of service on all named defendants, including the Internal Revenue Service pursuant to 28 U.S.C. \u00a7 2410, must be filed no later than June 1, 2026.",
+              "spans": [
+                {
+                  "file": "court_order.txt",
+                  "line_start": 24,
+                  "line_end": 26,
+                  "raw_text": "3. Proof of service on all named defendants, including the Internal\n   Revenue Service pursuant to 28 U.S.C. \u00a7 2410, must be filed no later\n   than June 1, 2026.",
+                  "confidence": 0.99
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Case Management Statement Filing",
+          "fields": [
+            {
+              "key": "Date",
+              "value": "June 8, 2026"
+            },
+            {
+              "key": "Required Action",
+              "value": "Plaintiff must file a Case Management Statement addressing service of process, defendants to be joined, status of settlement discussions, trial readiness estimate, and any pending motions."
+            },
+            {
+              "key": "What Must Happen By Then",
+              "value": "Comprehensive Case Management Statement must be filed covering all items required by court order."
+            }
+          ],
+          "badges": [
+            "ACTION REQUIRED",
+            "HIGH"
+          ],
+          "notes": null,
+          "action_items": [
+            "Complete and file the Case Management Statement by June 8, 2026, addressing all enumerated requirements."
+          ],
+          "citations": [
+            {
+              "claim": "Plaintiff shall file a Case Management Statement no later than June 8, 2026, addressing process, joinder, status of settlement, trial readiness, and pending motions.",
+              "spans": [
+                {
+                  "file": "court_order.txt",
+                  "line_start": 17,
+                  "line_end": 22,
+                  "raw_text": "2. Plaintiff shall file a Case Management Statement no later than\n   June 8, 2026 \u2014 ten (10) calendar days prior to the conference. The\n   statement must address: (a) service of process on all named defendants,\n   (b) any defendants who must be joined including federal agencies,\n   (c) status of settlement discussions, (d) trial readiness estimate,\n   and (e) any pending motions.",
+                  "confidence": 0.99
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Payoff Statement Lodgment",
+          "fields": [
+            {
+              "key": "Date",
+              "value": "June 13, 2026"
+            },
+            {
+              "key": "Required Action",
+              "value": "Counsel for Plaintiff must produce a payoff statement current within thirty (30) days of the upcoming conference and lodge it with the Court."
+            },
+            {
+              "key": "What Must Happen By Then",
+              "value": "The Court must receive a payoff statement (current within 30 days) from Plaintiff\u2019s counsel by June 13, 2026."
+            }
+          ],
+          "badges": [
+            "ACTION REQUIRED"
+          ],
+          "notes": null,
+          "action_items": [
+            "Prepare and lodge a payoff statement, current within 30 days of the conference, with the Court by June 13, 2026."
+          ],
+          "citations": [
+            {
+              "claim": "Counsel for Plaintiff shall produce a payoff statement current within thirty (30) days of the conference and lodge it with the Court by June 13, 2026.",
+              "spans": [
+                {
+                  "file": "court_order.txt",
+                  "line_start": 28,
+                  "line_end": 30,
+                  "raw_text": "4. Counsel for Plaintiff shall produce a payoff statement current within\n   thirty (30) days of the conference and lodge it with the Court by\n   June 13, 2026.",
+                  "confidence": 0.99
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Case Management Conference",
+          "fields": [
+            {
+              "key": "Date",
+              "value": "June 18, 2026, 9:00 AM"
+            },
+            {
+              "key": "Required Action",
+              "value": "All counsel of record must appear in person (telephonic appearance not permitted without good cause)."
+            },
+            {
+              "key": "What Must Happen By Then",
+              "value": "Counsel must attend the conference in Department 3; ensure all pre-conference filings are complete."
+            }
+          ],
+          "badges": [
+            "ASSIGNED",
+            "HIGH"
+          ],
+          "notes": "Confirmed by court order and referenced in servicer counsel email.",
+          "action_items": [
+            "Ensure all counsel of record are present in Department 3 at 9:00 AM on June 18, 2026. Telephonic appearance not allowed except for good cause."
+          ],
+          "citations": [
+            {
+              "claim": "A Case Management Conference is set for June 18, 2026, at 9:00 AM in Department 3. All counsel of record must appear in person; telephonic appearance is not permitted absent good cause.",
+              "spans": [
+                {
+                  "file": "court_order.txt",
+                  "line_start": 13,
+                  "line_end": 15,
+                  "raw_text": "1. A Case Management Conference is set for June 18, 2026, at 9:00 AM in\n   Department 3. All counsel of record must appear in person; telephonic\n   appearance is not permitted absent good cause.",
+                  "confidence": 0.99
+                }
+              ]
+            },
+            {
+              "claim": "Case management conference is set for June 18, 2026 (see attached court order). Please confirm your appearance.",
+              "spans": [
+                {
+                  "file": "servicer_email.txt",
+                  "line_start": 36,
+                  "line_end": 37,
+                  "raw_text": "- Case management conference is set for June 18, 2026 (see attached court\n  order). Please confirm your appearance.",
+                  "confidence": 0.95
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "citations": [
+        {
+          "claim": "All cited deadlines, actions, and hearing appearance obligations are sourced from the case's official court order and corroborated by counsel correspondence.",
+          "spans": [
+            {
+              "file": "court_order.txt",
+              "line_start": 13,
+              "line_end": 30,
+              "raw_text": "1. A Case Management Conference is set for June 18, 2026, at 9:00 AM in\n   Department 3. All counsel of record must appear in person; telephonic\n   appearance is not permitted absent good cause.\n2. Plaintiff shall file a Case Management Statement no later than\n   June 8, 2026 \u2014 ten (10) calendar days prior to the conference. The\n   statement must address: (a) service of process on all named defendants,\n   (b) any defendants who must be joined including federal agencies,\n   (c) status of settlement discussions, (d) trial readiness estimate,\n   and (e) any pending motions.\n3. Proof of service on all named defendants, including the Internal\n   Revenue Service pursuant to 28 U.S.C. \u00a7 2410, must be filed no later\n   than June 1, 2026.\n4. Counsel for Plaintiff shall produce a payoff statement current within\n   thirty (30) days of the conference and lodge it with the Court by\n   June 13, 2026.",
+              "confidence": 0.99
+            },
+            {
+              "file": "servicer_email.txt",
+              "line_start": 36,
+              "line_end": 37,
+              "raw_text": "- Case management conference is set for June 18, 2026 (see attached court\n  order). Please confirm your appearance.",
+              "confidence": 0.95
+            }
+          ]
+        }
+      ],
+      "abstained": false
+    },
+    {
+      "id": "payoff",
+      "heading": "Current Payoff Amount and Effective Date",
+      "body": "The current payoff for the subject loan is $643,718.44 as of April 1, 2026. This figure is sourced from the most recent servicer email.",
+      "blocks": [
+        {
+          "title": "Payoff Statement",
+          "fields": [
+            {
+              "key": "Amount",
+              "value": "$643,718.44"
+            },
+            {
+              "key": "As Of Date",
+              "value": "April 1, 2026"
+            },
+            {
+              "key": "Source",
+              "value": "Servicer email (Priya Anand, Chase Home Finance)"
+            }
+          ],
+          "badges": [],
+          "notes": null,
+          "action_items": [],
+          "citations": [
+            {
+              "claim": "Payoff amount is $643,718.44 as of April 1, 2026.",
+              "spans": [
+                {
+                  "file": "servicer_email.txt",
+                  "line_start": 29,
+                  "line_end": 29,
+                  "raw_text": "- Updated payoff as of April 1, 2026: $643,718.44. Please refresh any pending",
+                  "confidence": 1.0
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "citations": [
+        {
+          "claim": "The current payoff for the subject loan is $643,718.44 as of April 1, 2026. This figure is sourced from the most recent servicer email.",
+          "spans": [
+            {
+              "file": "servicer_email.txt",
+              "line_start": 29,
+              "line_end": 29,
+              "raw_text": "- Updated payoff as of April 1, 2026: $643,718.44. Please refresh any pending",
+              "confidence": 1.0
+            }
+          ]
+        }
+      ],
+      "abstained": false
+    },
+    {
+      "id": "servicing",
+      "heading": "Servicing Transfer and Borrower's Counsel",
+      "body": "This section documents the recent servicing transfer for the subject loan and provides the current status regarding borrower's counsel retention.",
+      "blocks": [
+        {
+          "title": "Active Servicing Transfer",
+          "fields": [
+            {
+              "key": "From Servicer",
+              "value": "Chase Home Finance"
+            },
+            {
+              "key": "To Servicer",
+              "value": "Rocket Mortgage"
+            },
+            {
+              "key": "Effective Date",
+              "value": "2026-05-15"
+            },
+            {
+              "key": "New Contact",
+              "value": "Marcus Alvarez (malvarez@rocketmortgage.com)"
+            },
+            {
+              "key": "New Address",
+              "value": "1050 Woodward Ave, Detroit, MI 48226"
+            }
+          ],
+          "badges": [
+            "ACTIVE TRANSFER"
+          ],
+          "notes": "All future correspondence, billing, and status reports are to be directed to Rocket Mortgage after May 15, 2026. Invoices submitted to Chase after this date will be rejected.",
+          "action_items": [
+            "Update all communications and billing processes to use Rocket Mortgage as servicer after May 15, 2026."
+          ],
+          "citations": [
+            {
+              "claim": "Servicing of this loan will transfer from Chase Home Finance to Rocket Mortgage effective May 15, 2026.",
+              "spans": [
+                {
+                  "file": "servicer_email.txt",
+                  "line_start": 10,
+                  "line_end": 15,
+                  "raw_text": "First, effective May 15, 2026, the servicing of this loan will transfer from\nChase Home Finance to Rocket Mortgage. Please direct all future correspondence,\nbilling, and status reports to Rocket Mortgage after that date. The new address\nis 1050 Woodward Ave, Detroit, MI 48226 and the new contact is Marcus Alvarez\n(malvarez@rocketmortgage.com). Any invoices submitted to Chase after May 15\nwill be bounced, so please route accordingly.",
+                  "confidence": 0.99
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Borrower's Counsel Status",
+          "fields": [
+            {
+              "key": "Borrower's Counsel",
+              "value": "Not retained as of current date"
+            }
+          ],
+          "badges": [],
+          "notes": "Borrower has not retained counsel. All inbound correspondence from Linda M. Thompson is to be managed per protocol until notice of counsel retention.",
+          "action_items": [
+            "Continue to handle all communications directly with borrower until counsel is retained and officially noted."
+          ],
+          "citations": [
+            {
+              "claim": "Borrower has NOT retained counsel as of today. Any inbound correspondence from Thompson should still be logged per standard protocol but continue to be handled through us until counsel is noted.",
+              "spans": [
+                {
+                  "file": "servicer_email.txt",
+                  "line_start": 32,
+                  "line_end": 34,
+                  "raw_text": "- Borrower has NOT retained counsel as of today. Any inbound correspondence from\n  Thompson should still be logged per standard protocol but continue to be\n  handled through us until counsel is noted.",
+                  "confidence": 0.98
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "citations": [
+        {
+          "claim": "Servicing of this loan will transfer from Chase Home Finance to Rocket Mortgage effective May 15, 2026.",
+          "spans": [
+            {
+              "file": "servicer_email.txt",
+              "line_start": 10,
+              "line_end": 15,
+              "raw_text": "First, effective May 15, 2026, the servicing of this loan will transfer from\nChase Home Finance to Rocket Mortgage. Please direct all future correspondence,\nbilling, and status reports to Rocket Mortgage after that date. The new address\nis 1050 Woodward Ave, Detroit, MI 48226 and the new contact is Marcus Alvarez\n(malvarez@rocketmortgage.com). Any invoices submitted to Chase after May 15\nwill be bounced, so please route accordingly.",
+              "confidence": 0.99
+            }
+          ]
+        },
+        {
+          "claim": "Borrower has NOT retained counsel as of today. Any inbound correspondence from Thompson should still be logged per standard protocol but continue to be handled through us until counsel is noted.",
+          "spans": [
+            {
+              "file": "servicer_email.txt",
+              "line_start": 32,
+              "line_end": 34,
+              "raw_text": "- Borrower has NOT retained counsel as of today. Any inbound correspondence from\n  Thompson should still be logged per standard protocol but continue to be\n  handled through us until counsel is noted.",
+              "confidence": 0.98
+            }
+          ]
+        }
+      ],
+      "abstained": false
+    },
+    {
+      "id": "title_concerns",
+      "heading": "Title Concerns Relevant to Case Posture",
+      "body": "Significant title concerns affecting this foreclosure include active liens, delinquent property taxes, a recent federal tax lien, and a mechanic's lien that require immediate attention. Each of these could impact the foreclosure timeline and party-naming decisions.",
+      "blocks": [
+        {
+          "title": "Delinquent Property Taxes \u2013 Second Installment Due",
+          "fields": [
+            {
+              "key": "Amount Due",
+              "value": "$11,342.00"
+            },
+            {
+              "key": "Tax Year",
+              "value": "2025"
+            },
+            {
+              "key": "Due Date",
+              "value": "April 10, 2026"
+            },
+            {
+              "key": "Status",
+              "value": "Unpaid (Second Installment)"
+            }
+          ],
+          "badges": [
+            "DELINQUENT",
+            "URGENT"
+          ],
+          "notes": "Outstanding property taxes must be addressed to avoid tax sale risk.",
+          "action_items": [
+            "Confirm payment of second installment to avoid tax sale or priority issues."
+          ],
+          "citations": [
+            {
+              "claim": "Outstanding 2025 property taxes\u2014second installment of $11,342.00 due April 10, 2026, remains unpaid.",
+              "spans": [
+                {
+                  "file": "title_search.txt",
+                  "line_start": 11,
+                  "line_end": 14,
+                  "raw_text": "1. Property taxes and assessments for the year 2025, second\n   insta11ment due Apri1 10, 2026.\n   Amount: $11,342.00 (second insta11ment)\n   APN: 234-056-007-3",
+                  "confidence": 0.99
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Active Federal Tax Lien Filed by IRS",
+          "fields": [
+            {
+              "key": "Amount",
+              "value": "$47,829.03"
+            },
+            {
+              "key": "Tax Years",
+              "value": "2022-2023"
+            },
+            {
+              "key": "Date Recorded",
+              "value": "November 4, 2025"
+            },
+            {
+              "key": "Instrument Number",
+              "value": "2025-0114872"
+            },
+            {
+              "key": "Debtor",
+              "value": "Linda M. Thompson"
+            }
+          ],
+          "badges": [
+            "ACTION REQUIRED",
+            "HIGH"
+          ],
+          "notes": "Federal tax lien introduces potential party-naming and statutory notice requirements under 28 U.S.C. \u00a7 2410. IRS may need to be named as a defendant; failure to comply could delay or invalidate foreclosure.",
+          "action_items": [
+            "Review compliance with federal notice requirements; ensure IRS properly named in complaint."
+          ],
+          "citations": [
+            {
+              "claim": "IRS filed federal tax lien for $47,829.03 (tax years 2022-2023) against the borrower, recorded November 4, 2025, as Instrument No. 2025-0114872.",
+              "spans": [
+                {
+                  "file": "title_search.txt",
+                  "line_start": 21,
+                  "line_end": 24,
+                  "raw_text": "3. Notice of Federa1 Tax Lien fi1ed by the INTERNAL REVENUE\n   SERVICE against Linda M. Th0mpson in the amount of $47,829.03\n   for tax years 2022-2023, recorded November 4, 2O25 as\n   Instrument No. 2025-0114872.",
+                  "confidence": 0.99
+                }
+              ]
+            },
+            {
+              "claim": "Servicer flagged the IRS lien for possible party-defendant and notice requirements under federal law.",
+              "spans": [
+                {
+                  "file": "servicer_email.txt",
+                  "line_start": 19,
+                  "line_end": 23,
+                  "raw_text": "- We received a lien-title update showing a federal tax lien filed against the\n  borrower by the IRS for $47,829.03. Please review whether the IRS needs to be\n  named as a party defendant in the foreclosure complaint \u0015 our understanding\n  is the federal statutory redemption period creates specific notice requirements\n  under 28 U.S.C. a7 2410. Please advise.",
+                  "confidence": 0.98
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Mechanic's Lien for Remodeling Work",
+          "fields": [
+            {
+              "key": "Amount",
+              "value": "$18,650.00"
+            },
+            {
+              "key": "Creditor",
+              "value": "Hernandez & Sons Construction"
+            },
+            {
+              "key": "Date Recorded",
+              "value": "January 7, 2026"
+            },
+            {
+              "key": "Instrument Number",
+              "value": "2026-0004421"
+            },
+            {
+              "key": "Work Period",
+              "value": "March\u2013September 2025"
+            }
+          ],
+          "badges": [
+            "ACTION REQUIRED"
+          ],
+          "notes": "Mechanic's lien must be satisfied or resolved ahead of final sale to ensure clear title.",
+          "action_items": [
+            "Contact Hernandez & Sons Construction to discuss release or settlement prior to sale."
+          ],
+          "citations": [
+            {
+              "claim": "Active mechanic's lien for $18,650.00 recorded January 7, 2026 (work performed March\u2013September 2025).",
+              "spans": [
+                {
+                  "file": "title_search.txt",
+                  "line_start": 26,
+                  "line_end": 29,
+                  "raw_text": "4. Mechanic's Lien fi1ed by HERNANDEZ & SONS CONSTRUCT1ON in the\n   amount of $18,650.00 for unpaid remode1ing work, recorded\n   January 7, 2O26 as Instrument No. 2026-0004421. Work performed\n   between March and September 2O25 per attached c1aim.",
+                  "confidence": 0.99
+                }
+              ]
+            },
+            {
+              "claim": "Servicer email highlights mechanic's lien for pre-sale attention.",
+              "spans": [
+                {
+                  "file": "servicer_email.txt",
+                  "line_start": 25,
+                  "line_end": 27,
+                  "raw_text": "- Also flagged on title: a mechanic's lien for $18,650.00 from Hernandez & Sons\n  Construction for a bathroom/kitchen remodel. Needs to be addressed before\n  any sale.",
+                  "confidence": 0.97
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Mortgage Lien \u2013 JPMorgan Chase Bank, N.A.",
+          "fields": [
+            {
+              "key": "Amount (Original)",
+              "value": "$612,500.00"
+            },
+            {
+              "key": "Borrower",
+              "value": "Linda M. Thompson"
+            },
+            {
+              "key": "Date Dated",
+              "value": "June 3, 2022"
+            },
+            {
+              "key": "Date Recorded",
+              "value": "June 10, 2022"
+            },
+            {
+              "key": "Instrument Number",
+              "value": "2022-00892345"
+            },
+            {
+              "key": "Status",
+              "value": "Active"
+            }
+          ],
+          "badges": [],
+          "notes": "Senior lien underlying current foreclosure action.",
+          "action_items": [],
+          "citations": [
+            {
+              "claim": "Mortgage from Linda M. Thompson to JPMorgan Chase Bank, N.A., $612,500.00, dated June 3, 2022, recorded June 10, 2022 as Instrument No. 2022-00892345.",
+              "spans": [
+                {
+                  "file": "title_search.txt",
+                  "line_start": 16,
+                  "line_end": 19,
+                  "raw_text": "2. Mortgage from LINDA M. TH0MPSON to JPM0RGAN CHASE BANK, N.A.\n   in the origina1 amount of $612,500.00 dated June 3, 2O22 and\n   recorded June 1O, 2O22 as Instrument No. 2022-00892345 in the\n   Officia1 Records of Riverside County, Ca1ifornia.",
+                  "confidence": 0.99
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Easement \u2013 Southern California Edison",
+          "fields": [
+            {
+              "key": "Beneficiary",
+              "value": "Southern California Edison"
+            },
+            {
+              "key": "Purpose",
+              "value": "Overhead electrical lines, underground utilities"
+            },
+            {
+              "key": "Recorded in",
+              "value": "Book 7234, Page 1881"
+            },
+            {
+              "key": "Status",
+              "value": "Active"
+            }
+          ],
+          "badges": [],
+          "notes": "Easement for utilities has ongoing effect but does not pose payoff concern.",
+          "action_items": [],
+          "citations": [
+            {
+              "claim": "Easement benefiting Southern California Edison for utilities, recorded in Book 7234, Page 1881.",
+              "spans": [
+                {
+                  "file": "title_search.txt",
+                  "line_start": 31,
+                  "line_end": 33,
+                  "raw_text": "5. Easement in favor of SOUTHERN CAL1FORNIA EDISON for overhead\n   e1ectrica1 1ines and underground uti1ities, recorded in Book\n   7234, Page 1881.",
+                  "confidence": 0.98
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "CC&Rs \u2013 Cedar Ridge Estates (Restrictive Covenant)",
+          "fields": [
+            {
+              "key": "Nature",
+              "value": "Declaration of Covenants, Conditions and Restrictions"
+            },
+            {
+              "key": "Subdivision",
+              "value": "Cedar Ridge Estates"
+            },
+            {
+              "key": "Original Recording",
+              "value": "Book 5521, Page 220"
+            },
+            {
+              "key": "Amendment",
+              "value": "Book 6892, Page 744"
+            }
+          ],
+          "badges": [],
+          "notes": "Standard community CC&Rs in place; review for any enforcement actions or recent violations.",
+          "action_items": [],
+          "citations": [
+            {
+              "claim": "CC&Rs recorded for Cedar Ridge Estates, per Book 5521, Page 220, amended by Book 6892, Page 744.",
+              "spans": [
+                {
+                  "file": "title_search.txt",
+                  "line_start": 35,
+                  "line_end": 37,
+                  "raw_text": "6. Dec1aration of Covenants, Conditions and Restrictions for\n   Cedar Ridge Estates, recorded in Book 5521, Page 22O, as\n   amended by instrument recorded in Book 6892, Page 744.",
+                  "confidence": 0.97
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "citations": [
+        {
+          "claim": "This section synthesizes findings from title search and servicer email regarding liens and title matters as of March 14, 2026.",
+          "spans": [
+            {
+              "file": "title_search.txt",
+              "line_start": 3,
+              "line_end": 6,
+              "raw_text": "Fi1e No.: PCT-2026-03217\nEffective Date: March 14, 2026\nProperty: 4418 Cedar Ridge Dr, Riverside, Ca1ifornia 92504",
+              "confidence": 0.98
+            }
+          ]
+        }
+      ],
+      "abstained": false
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "case_number": "2025-FC-08891-SCAN",
+  "borrower": "Rodriguez, Carlos A.",
+  "property_address": "15201 SW 88th Ave, Palmetto Bay, FL 33157",
+  "county": "Miami-Dade",
+  "state": "FL",
+  "servicer": "Wells Fargo (transferring to Nationstar/Mr. Cooper effective April 1, 2026)",
+  "loan_number": "2021-0123456",
+  "loan_amount": 445000.0,
+  "loan_date": "February 8, 2021",
+  "default_date": "October 1, 2025",
+  "current_status": "pre_filing",
+  "documents_on_file": [
+    "title_search_page1.txt \u2014 Schedule B exceptions from title search (OCR scan, noisy)",
+    "title_search_page2.txt \u2014 Legal description, tax info, judgment search results",
+    "servicer_email.txt \u2014 Servicing transfer notice with multiple instructions",
+    "court_order.txt \u2014 Case management conference order"
+  ],
+  "notes": "This case has several active complications: pending servicer transfer, HOA lis pendens that may require naming as party, borrower has retained counsel, and a case management conference is approaching with multiple filing deadlines. [Synthetic scanned PDFs for OCR tier demo.]"
+}

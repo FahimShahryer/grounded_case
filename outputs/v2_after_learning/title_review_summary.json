@@ -1,0 +1,618 @@
+{
+  "header": {
+    "servicer": "Wells Fargo"
+  },
+  "sections": [
+    {
+      "id": "liens",
+      "body": null,
+      "blocks": [
+        {
+          "notes": "Mortgage originally in favor of Wells Fargo Bank, N.A. has been assigned; see subsequent assignment below.",
+          "title": "First Mortgage \u2014 Wells Fargo Bank, N.A.",
+          "badges": [
+            "ASSIGNED"
+          ],
+          "fields": [
+            {
+              "key": "Original Amount",
+              "value": "$445,000.00"
+            },
+            {
+              "key": "Date Recorded",
+              "value": "2021-02-15"
+            },
+            {
+              "key": "Instrument No.",
+              "value": "2021-0123456"
+            },
+            {
+              "key": "Status",
+              "value": "ASSIGNED"
+            }
+          ],
+          "citations": [
+            {
+              "claim": "Mortgage from CARLOS A. RODRIGUEZ to WELLS FARGO BANK, N.A. in the original amount of $445,000.00 dated February 8, 2021 and recorded February 15, 2021 as Instrument No. 2021-0123456 in the Official Records of Miami-Dade County, Florida.",
+              "spans": [
+                {
+                  "file": "title_search_page1.pdf",
+                  "line_end": 15,
+                  "raw_text": "[L12] 2. Mortgage from CARLOS A. RODRIGUEZ to WELLS FARGO BANK, N.A. in the\n[L13] original amount of $445,000.00 dated February 8, 2021 and recorded\n[L14] February 15, 2021 as Instrument No. 2021-0123456 in the Official\n[L15] Records of Miami-Dade County, Florida.",
+                  "confidence": 0.99,
+                  "line_start": 12
+                }
+              ]
+            }
+          ],
+          "action_items": []
+        },
+        {
+          "notes": "Mortgage assigned from Wells Fargo Bank, N.A. to Nationstar Mortgage LLC d/b/a Mr. Cooper.",
+          "title": "Assignment \u2014 Nationstar Mortgage LLC d/b/a Mr. Cooper",
+          "badges": [
+            "ASSIGNED"
+          ],
+          "fields": [
+            {
+              "key": "Assigned From",
+              "value": "Wells Fargo Bank, N.A."
+            },
+            {
+              "key": "Assigned To",
+              "value": "Nationstar Mortgage LLC d/b/a Mr. Cooper"
+            },
+            {
+              "key": "Date Recorded",
+              "value": "2025-09-14"
+            },
+            {
+              "key": "Instrument No.",
+              "value": "2025-0891234"
+            },
+            {
+              "key": "Status",
+              "value": "ACTIVE"
+            }
+          ],
+          "citations": [
+            {
+              "claim": "Assignment of Mortgage from WELLS FARGO BANK, N.A. to NATIONSTAR MORTGAGE LLC D/B/A MR. COOPER recorded September 14, 2025 as Instrument No. 2025-0891234 in the Official Records of Miami-Dade County, Florida.",
+              "spans": [
+                {
+                  "file": "title_search_page1.pdf",
+                  "line_end": 19,
+                  "raw_text": "[L16] 3. Assignment of Mortgage from WE11S FARGO BANK, N.A. to NATIONSTAR\n[L17] MORTGAGE LLC D/B/A MR. COOPER recorded September 14, 2025 as\n[L18] Instrument No. 2025-0891234 in the Official Records of Miami-Dade\n[L19] County, Florida.",
+                  "confidence": 0.99,
+                  "line_start": 16
+                }
+              ]
+            }
+          ],
+          "action_items": []
+        },
+        {
+          "notes": "Property taxes for 2025 are a statutory lien but not yet due and payable.",
+          "title": "2025 Property Tax Lien",
+          "badges": [],
+          "fields": [
+            {
+              "key": "Amount",
+              "value": "$8,247.00"
+            },
+            {
+              "key": "Tax Year",
+              "value": "2025"
+            },
+            {
+              "key": "Status",
+              "value": "ACTIVE (not yet due and payable)"
+            }
+          ],
+          "citations": [
+            {
+              "claim": "Property taxes and assessments for the year 2025 and subsequent years are a lien but not yet due and payable. Amount: $8,247.00",
+              "spans": [
+                {
+                  "file": "title_search_page1.pdf",
+                  "line_end": 11,
+                  "raw_text": "[L8] 1. Property taxes and assessments for the year 2025 and subsequent years,\n[L9] which are a lien but not yet due and payable.\n[L10] Amount: $8,247.00\n[L11] Tax Parcel No.: 33-5022-014-0290",
+                  "confidence": 0.98,
+                  "line_start": 8
+                }
+              ]
+            }
+          ],
+          "action_items": []
+        },
+        {
+          "notes": "Notice of Lis Pendens filed by Palmetto Bay Homeowners Association for unpaid assessments.",
+          "title": "HOA Lis Pendens \u2014 Palmetto Bay Homeowners Association, Inc.",
+          "badges": [
+            "ACTION REQUIRED"
+          ],
+          "fields": [
+            {
+              "key": "Amount",
+              "value": "$3,420.00"
+            },
+            {
+              "key": "Date Filed",
+              "value": "2026-01-22"
+            },
+            {
+              "key": "Instrument No.",
+              "value": "2026-0034567"
+            },
+            {
+              "key": "Status",
+              "value": "ACTIVE"
+            }
+          ],
+          "citations": [
+            {
+              "claim": "Notice of Lis Pendens filed by PALMETTO BAY HOMEOWNERS ASSOCIATION, INC. on January 22, 2026 in the amount of $3,420.00 for unpaid assessments, recorded as Instrument No. 2026-0034567.",
+              "spans": [
+                {
+                  "file": "title_search_page1.pdf",
+                  "line_end": 22,
+                  "raw_text": "[L20] 4. Notice of Lis Pendens filed by PALMETTO BAY HOMEOWNERS ASSOCIATION,\n[L21] INC. on January 22, 2026 in the amount of $3,420.00 for unpaid\n[L22] assessments, recorded as Instrument No. 2026-0034567.",
+                  "confidence": 0.99,
+                  "line_start": 20
+                }
+              ]
+            }
+          ],
+          "action_items": [
+            "Review status and resolve HOA assessments to clear Lis Pendens."
+          ]
+        },
+        {
+          "notes": "Easement in favor of Florida Power & Light Company for electrical transmission lines.",
+          "title": "Easement \u2014 Florida Power & Light Company",
+          "badges": [],
+          "fields": [
+            {
+              "key": "Easement Purpose",
+              "value": "Electrical transmission lines"
+            },
+            {
+              "key": "O.R. Book",
+              "value": "18924"
+            },
+            {
+              "key": "Page",
+              "value": "445"
+            },
+            {
+              "key": "Status",
+              "value": "ACTIVE"
+            }
+          ],
+          "citations": [
+            {
+              "claim": "Easement in favor of Florida Power & Light Company for electrical transmission lines, recorded in 0.R. Book 18924, Page 445.",
+              "spans": [
+                {
+                  "file": "title_search_page1.pdf",
+                  "line_end": 24,
+                  "raw_text": "[L23] 5. Easement in favor of Florida Power & Light Company for electrical\n[L24] transmission lines, recorded in 0.R. Book 18924, Page 445.",
+                  "confidence": 0.98,
+                  "line_start": 23
+                }
+              ]
+            }
+          ],
+          "action_items": []
+        },
+        {
+          "notes": "Restrictive covenants recorded as amended by later instrument.",
+          "title": "Restrictive Covenants (as Amended)",
+          "badges": [],
+          "fields": [
+            {
+              "key": "O.R. Book",
+              "value": "12031"
+            },
+            {
+              "key": "Page",
+              "value": "892"
+            },
+            {
+              "key": "Status",
+              "value": "ACTIVE"
+            },
+            {
+              "key": "Amendment Instrument",
+              "value": "O.R. Book 15677, Page 1021"
+            }
+          ],
+          "citations": [
+            {
+              "claim": "Restrictive covenants recorded in 0.R. Book 12031, Page 892, as amended by instrument recorded in 0.R. Book 15677, Page 1021.",
+              "spans": [
+                {
+                  "file": "title_search_page1.pdf",
+                  "line_end": 26,
+                  "raw_text": "[L25] 6. Restrictive covenants recorded in 0.R. Book 12031, Page 892,\n[L26] as amended by instrument recorded in 0.R. Book 15677, Page 1021.",
+                  "confidence": 0.97,
+                  "line_start": 25
+                }
+              ]
+            }
+          ],
+          "action_items": []
+        },
+        {
+          "notes": "Mortgage for prior owner (Maria Santos) was fully satisfied before conveyance to Rodriguez. Demonstrates clean chain of title.",
+          "title": "Satisfaction of Prior Mortgage \u2014 Maria Santos",
+          "badges": [],
+          "fields": [
+            {
+              "key": "Instrument No.",
+              "value": "2015-0567890"
+            },
+            {
+              "key": "Date Recorded",
+              "value": "2015-08-15"
+            },
+            {
+              "key": "Status",
+              "value": "SATISFIED"
+            }
+          ],
+          "citations": [
+            {
+              "claim": "Satisfaction of Mortgage recorded 08/15/2015, Instrument 2015-0567890 (mortgage fully satisfied prior to conveyance to Rodriguez)",
+              "spans": [
+                {
+                  "file": "title_search_page2.pdf",
+                  "line_end": 28,
+                  "raw_text": "[L27] - Satisfaction of Mortgage recorded 08/15/2015, Instrument 2015-0567890\n[L28] (mortgage fully satisfied prior to conveyance to Rodriguez)",
+                  "confidence": 0.9,
+                  "line_start": 27
+                }
+              ]
+            }
+          ],
+          "action_items": []
+        }
+      ],
+      "heading": "Liens and Encumbrances",
+      "abstained": false,
+      "citations": []
+    },
+    {
+      "id": "tax_status",
+      "body": "This section provides a breakdown of the property tax status for each relevant year, including payment history, parcel number, amounts, and due dates. Delinquent years are specifically flagged. Section organization follows the operator-required headers: LIENS, TAX STATUS (property taxes only), OWNERSHIP, OTHER MATTERS, and REVIEWER NOTES.",
+      "blocks": [
+        {
+          "notes": "2025 property taxes are a statutory lien on the property under Florida law. As of February 28, 2026, they are assessed, not yet due and therefore not currently delinquent. No recording instrument for a tax certificate or sale is present.",
+          "title": "LIENS",
+          "badges": [
+            "ASSIGNED"
+          ],
+          "fields": [
+            {
+              "key": "Tax Year",
+              "value": "2025"
+            },
+            {
+              "key": "Amount",
+              "value": "$8,247.00"
+            },
+            {
+              "key": "Paid/Unpaid",
+              "value": "Unpaid"
+            },
+            {
+              "key": "Due Date",
+              "value": "November 1, 2025"
+            },
+            {
+              "key": "Tax Parcel",
+              "value": "33-5022-014-0290"
+            },
+            {
+              "key": "Lien Instrument/Record",
+              "value": "N/A (Property taxes are statutory liens; not yet recorded as a tax certificate or sold)"
+            }
+          ],
+          "citations": [
+            {
+              "claim": "Property taxes and assessments for the year 2025 and subsequent years, which are a lien but not yet due and payable. Amount: $8,247.00. Tax Parcel No.: 33-5022-014-0290",
+              "spans": [
+                {
+                  "file": "title_search_page1.pdf",
+                  "line_end": 11,
+                  "raw_text": "[L8] 1. Property taxes and assessments for the year 2025 and subsequent years,\n[L9] which are a lien but not yet due and payable.\n[L10] Amount: $8,247.00\n[L11] Tax Parcel No.: 33-5022-014-0290",
+                  "confidence": 1.0,
+                  "line_start": 8
+                }
+              ]
+            },
+            {
+              "claim": "Tax Year 2025: UNPAID $8,247.00 (due November 1, 2025)",
+              "spans": [
+                {
+                  "file": "title_search_page2.pdf",
+                  "line_end": 11,
+                  "raw_text": "[L11] Tax Year 2025: UNPAID \t6 $8,247.00 (due November 1, 2025 \t6 DELINQUENT)",
+                  "confidence": 1.0,
+                  "line_start": 11
+                }
+              ]
+            }
+          ],
+          "action_items": []
+        },
+        {
+          "notes": "2024 taxes have been paid in full; receipt is on file.",
+          "title": "TAX STATUS",
+          "badges": [],
+          "fields": [
+            {
+              "key": "Tax Year",
+              "value": "2024"
+            },
+            {
+              "key": "Amount",
+              "value": "$7,891.00"
+            },
+            {
+              "key": "Paid/Unpaid",
+              "value": "Paid"
+            },
+            {
+              "key": "Tax Parcel",
+              "value": "33-5022-014-0290"
+            }
+          ],
+          "citations": [
+            {
+              "claim": "Tax Year 2024: PAID \u2014 $7,891.00 (receipt on file)",
+              "spans": [
+                {
+                  "file": "title_search_page2.pdf",
+                  "line_end": 10,
+                  "raw_text": "[L10] Tax Year 2024: PAID \t6 $7,891.00 (receipt on file)",
+                  "confidence": 1.0,
+                  "line_start": 10
+                }
+              ]
+            }
+          ],
+          "action_items": []
+        },
+        {
+          "notes": "Ownership and transfer matters are addressed elsewhere in this report.",
+          "title": "OWNERSHIP",
+          "badges": [],
+          "fields": [],
+          "citations": [],
+          "action_items": []
+        },
+        {
+          "notes": "No outstanding municipal code violations found. Special Assessment District taxes reported as current through 2025 ($1,200.00/year).",
+          "title": "OTHER MATTERS",
+          "badges": [],
+          "fields": [],
+          "citations": [
+            {
+              "claim": "Special Assessment District: Palmetto Bay Municipal Services Assessment Amount: $1,200.00/year. Status: Current through 2025. No outstanding municipal code violations found on record.",
+              "spans": [
+                {
+                  "file": "title_search_page2.pdf",
+                  "line_end": 17,
+                  "raw_text": "Special Assessment District: Palmetto Bay Municipal Services\nAssessment Amount: $1,200.00/year\nStatus: Current through 2025\nNo outstanding municipal code violations found on record.",
+                  "confidence": 1.0,
+                  "line_start": 13
+                }
+              ]
+            }
+          ],
+          "action_items": []
+        },
+        {
+          "notes": "2025 property taxes are listed as 'UNPAID' but are not yet past the due date as of the effective date of search (Feb 28, 2026). 'DELINQUENT' label in title evidence appears premature per Florida statutory definitions. No tax sale or certificate appears of record.",
+          "title": "REVIEWER NOTES",
+          "badges": [],
+          "fields": [],
+          "citations": [
+            {
+              "claim": "2025 property taxes are a lien but not yet due and payable; due November 1, 2025.",
+              "spans": [
+                {
+                  "file": "title_search_page1.pdf",
+                  "line_end": 11,
+                  "raw_text": "[L8] 1. Property taxes and assessments for the year 2025 and subsequent years,\n[L9] which are a lien but not yet due and payable.\n[L10] Amount: $8,247.00\n[L11] Tax Parcel No.: 33-5022-014-0290",
+                  "confidence": 1.0,
+                  "line_start": 8
+                }
+              ]
+            }
+          ],
+          "action_items": []
+        }
+      ],
+      "heading": "Property Tax Status",
+      "abstained": false,
+      "citations": [
+        {
+          "claim": "Tax Year 2024: PAID \t6 $7,891.00 (receipt on file)",
+          "spans": [
+            {
+              "file": "title_search_page2.pdf",
+              "line_end": 10,
+              "raw_text": "[L10] Tax Year 2024: PAID \t6 $7,891.00 (receipt on file)",
+              "confidence": 1.0,
+              "line_start": 10
+            }
+          ]
+        },
+        {
+          "claim": "Tax Year 2025: UNPAID \t6 $8,247.00 (due November 1, 2025 \t6 DELINQUENT)",
+          "spans": [
+            {
+              "file": "title_search_page2.pdf",
+              "line_end": 11,
+              "raw_text": "[L11] Tax Year 2025: UNPAID \t6 $8,247.00 (due November 1, 2025 \t6 DELINQUENT)",
+              "confidence": 1.0,
+              "line_start": 11
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ownership",
+      "body": "The following summarizes the chain of title and current vesting for 15201 SW 88th Ave, Palmetto Bay, FL 33157. Each conveyance is detailed below, ending with the current owner.",
+      "blocks": [
+        {
+          "notes": "First recorded ownership in chain. Instrument type is not specified in source materials.",
+          "title": "Conveyance: Maria Santos Acquires Fee Simple",
+          "badges": [],
+          "fields": [
+            {
+              "key": "Grantor",
+              "value": "N/A (root owner per report)"
+            },
+            {
+              "key": "Grantee",
+              "value": "Maria Santos"
+            },
+            {
+              "key": "Instrument",
+              "value": "N/A (fee simple, instrument not specified)"
+            },
+            {
+              "key": "Date Recorded",
+              "value": "2003-01-01"
+            }
+          ],
+          "citations": [
+            {
+              "claim": "Maria Santos acquired ownership in fee simple, recorded 2003-01-01.",
+              "spans": [
+                {
+                  "file": "title_search_page1.pdf",
+                  "line_end": 28,
+                  "raw_text": "[L28] - Maria Santos (fee simple, recorded 2003)",
+                  "confidence": 1.0,
+                  "line_start": 28
+                },
+                {
+                  "file": "title_search_page1.pdf",
+                  "line_end": 30,
+                  "raw_text": "NOTE: The chain of title shows the following sequence of ownership:\n- Maria Santos (fee simple, recorded 2003)\n- Santos to Rodriguez, Carlos A. (warranty deed, recorded 2015)\n- Current vesting: CARLOS A. RODRIGUEZ, a single man",
+                  "confidence": 1.0,
+                  "line_start": 25
+                }
+              ]
+            }
+          ],
+          "action_items": []
+        },
+        {
+          "notes": "Ownership transferred by warranty deed from Maria Santos to Carlos A. Rodriguez.",
+          "title": "Conveyance: Maria Santos to Carlos A. Rodriguez",
+          "badges": [],
+          "fields": [
+            {
+              "key": "Grantor",
+              "value": "Maria Santos"
+            },
+            {
+              "key": "Grantee",
+              "value": "Carlos A. Rodriguez"
+            },
+            {
+              "key": "Instrument",
+              "value": "Warranty Deed"
+            },
+            {
+              "key": "Date Recorded",
+              "value": "2015-01-01"
+            }
+          ],
+          "citations": [
+            {
+              "claim": "Maria Santos conveyed the property to Carlos A. Rodriguez by warranty deed recorded 2015-01-01.",
+              "spans": [
+                {
+                  "file": "title_search_page1.pdf",
+                  "line_end": 29,
+                  "raw_text": "[L29] - Santos to Rodriguez, Carlos A. (warranty deed, recorded 2015)",
+                  "confidence": 1.0,
+                  "line_start": 29
+                },
+                {
+                  "file": "title_search_page1.pdf",
+                  "line_end": 30,
+                  "raw_text": "NOTE: The chain of title shows the following sequence of ownership:\n- Maria Santos (fee simple, recorded 2003)\n- Santos to Rodriguez, Carlos A. (warranty deed, recorded 2015)\n- Current vesting: CARLOS A. RODRIGUEZ, a single man",
+                  "confidence": 1.0,
+                  "line_start": 25
+                }
+              ]
+            }
+          ],
+          "action_items": []
+        },
+        {
+          "notes": "Carlos A. Rodriguez is currently vested in title as a single man, as confirmed by the most recent chain of title disclosure.",
+          "title": "Current Vesting: Carlos A. Rodriguez",
+          "badges": [],
+          "fields": [
+            {
+              "key": "Current Owner",
+              "value": "Carlos A. Rodriguez"
+            },
+            {
+              "key": "Vesting Status",
+              "value": "A single man"
+            }
+          ],
+          "citations": [
+            {
+              "claim": "Current vesting is in Carlos A. Rodriguez, a single man.",
+              "spans": [
+                {
+                  "file": "title_search_page1.pdf",
+                  "line_end": 30,
+                  "raw_text": "NOTE: The chain of title shows the following sequence of ownership:\n- Maria Santos (fee simple, recorded 2003)\n- Santos to Rodriguez, Carlos A. (warranty deed, recorded 2015)\n- Current vesting: CARLOS A. RODRIGUEZ, a single man",
+                  "confidence": 1.0,
+                  "line_start": 25
+                }
+              ]
+            }
+          ],
+          "action_items": []
+        }
+      ],
+      "heading": "Chain of Ownership and Current Vesting",
+      "abstained": false,
+      "citations": []
+    },
+    {
+      "id": "judgments",
+      "body": "No unsatisfied judgments or tax liens identified in source materials for Carlos A. Rodriguez. The title search documents do not disclose any outstanding federal, state tax liens, or monetary judgments against the borrower.",
+      "blocks": [],
+      "heading": "Outstanding Judgments and Tax Liens",
+      "abstained": false,
+      "citations": [
+        {
+          "claim": "No unsatisfied judgments or tax liens identified in source materials for Carlos A. Rodriguez. The title search documents do not disclose any outstanding federal, state tax liens, or monetary judgments against the borrower.",
+          "spans": [
+            {
+              "file": "title_search_page1.pdf",
+              "line_end": 22,
+              "raw_text": "COMMONWEALTH LAND T1TLE INSURANCE COMPANY\nSCHEDULE B \u2014 EXCEPT10NS\nFile No.: CLT-2025-08891\nEffective Date: February 28, 2026\nProperty: 15201 SW 88th Ave, Palmetto Bay, Florida 33157\nThe following matters are exceptions to the title to the above-described\nproperty and are not covered by this policy:\n1. Property taxes and assessments for the year 2025 and subsequent years,\nwhich are a lien but not yet due and payable.\nAmount: $8,247.00\nTax Parcel No.: 33-5022-014-0290\n2. Mortgage from CARLOS A. RODRIGUEZ to WELLS FARGO BANK, N.A. in the\noriginal amount of $445,000.00 dated February 8, 2021 and recorded\nFebruary 15, 2021 as Instrument No. 2021-0123456 in the Official\nRecords of Miami-Dade County, Florida.\n3. Assignment of Mortgage from WE11S FARGO BANK, N.A. to NATIONSTAR\nMORTGAGE LLC D/B/A MR. COOPER recorded September 14, 2025 as\nInstrument No. 2025-0891234 in the Official Records of Miami-Dade\nCounty, Florida.\n4. Notice of Lis Pendens filed by PALMETTO BAY HOMEOWNERS ASSOCIATION,\nINC. on January 22, 2026 in the amount of $3,420.00 for unpaid\nassessments, recorded as Instrument No. 2026-0034567.",
+              "confidence": 0.98,
+              "line_start": 1
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
