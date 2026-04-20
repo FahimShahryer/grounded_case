@@ -3,7 +3,7 @@
 Ingests messy legal documents → extracts typed facts with citations → retrieves grounded evidence → generates draft memos → learns from operator edits.
 
 Sample data is synthetic (Rodriguez + Thompson foreclosure cases).
-For design and engineering details, see ARCHITECTURE.md
+For design and engineering details, see ARCHITECTURE_short.md and ARCHITECTURE_full.md
 
 ---
 
